@@ -1,0 +1,5078 @@
+[
+    {
+        "creatureId": 78,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7825a14a66c7079fa310500781eabcd30d.png",
+        "creatureName": "Vampire Titan",
+        "description": "The titan enjoys nothing more than to rip his victims apart and then drink the blood from the remains.",
+        "statistics": {
+            "class": "Undead",
+            "level": 37,
+            "attack": {
+                "min": 10,
+                "max": 70
+            },
+            "defense": {
+                "min": 80,
+                "max": 100
+            },
+            "armor": {
+                "min": 20,
+                "max": 25
+            },
+            "damage": {
+                "min": 200,
+                "max": 205
+            },
+            "hp": {
+                "min": 80,
+                "max": 100
+            },
+            "gold": {
+                "min": 35,
+                "max": 38
+            },
+            "xp": {
+                "min": 78,
+                "max": 80
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:80% - 95%",
+            "Breaker:20% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "308",
+                "itemName": "Amulet of the Topaz"
+            },
+            {
+                "itemId": "306",
+                "itemName": "Demon Horned Helm"
+            },
+            {
+                "itemId": "312",
+                "itemName": "Flaming Rune"
+            },
+            {
+                "itemId": "305",
+                "itemName": "Serpent Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "58",
+                "realmName": "The Eerie Moors (West)"
+            },
+            {
+                "realmId": "57",
+                "realmName": "The Eerie Moors (East)"
+            },
+            {
+                "realmId": "56",
+                "realmName": "The Eerie Moors (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 401,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4012f6ef9f3c20cef89acca0736ee2e7d28.png",
+        "creatureName": "Xexk Water Titan (Champion)",
+        "description": "The Xexk Water Titan is a creature of the old world, capable of using powerful magic to manipulate water. Few encounter these creatures, opting to avoid them at all cost.",
+        "statistics": {
+            "class": "Demon",
+            "level": 242,
+            "attack": {
+                "min": 1887,
+                "max": 1985
+            },
+            "defense": {
+                "min": 892,
+                "max": 1056
+            },
+            "armor": {
+                "min": 1133,
+                "max": 1257
+            },
+            "damage": {
+                "min": 1930,
+                "max": 2104
+            },
+            "hp": {
+                "min": 5815,
+                "max": 6435
+            },
+            "gold": {
+                "min": 221,
+                "max": 263
+            },
+            "xp": {
+                "min": 958,
+                "max": 988
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:55% - 65%",
+            "Reinforced Armor:45% - 55%",
+            "Critical Hit:65% - 75%",
+            "Dodge:45% - 55%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "2409",
+                "itemName": "Armor of Ravenmore"
+            },
+            {
+                "itemId": "2369",
+                "itemName": "Boots of Pinala"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "340",
+                "realmName": "Emyr (East)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 78,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7825a14a66c7079fa310500781eabcd30d.png",
+        "creatureName": "Vampire Titan",
+        "description": "The titan enjoys nothing more than to rip his victims apart and then drink the blood from the remains.",
+        "statistics": {
+            "class": "Undead",
+            "level": 37,
+            "attack": {
+                "min": 10,
+                "max": 70
+            },
+            "defense": {
+                "min": 80,
+                "max": 100
+            },
+            "armor": {
+                "min": 20,
+                "max": 25
+            },
+            "damage": {
+                "min": 200,
+                "max": 205
+            },
+            "hp": {
+                "min": 80,
+                "max": 100
+            },
+            "gold": {
+                "min": 35,
+                "max": 38
+            },
+            "xp": {
+                "min": 78,
+                "max": 80
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:80% - 95%",
+            "Breaker:20% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "308",
+                "itemName": "Amulet of the Topaz"
+            },
+            {
+                "itemId": "306",
+                "itemName": "Demon Horned Helm"
+            },
+            {
+                "itemId": "312",
+                "itemName": "Flaming Rune"
+            },
+            {
+                "itemId": "305",
+                "itemName": "Serpent Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "58",
+                "realmName": "The Eerie Moors (West)"
+            },
+            {
+                "realmId": "57",
+                "realmName": "The Eerie Moors (East)"
+            },
+            {
+                "realmId": "56",
+                "realmName": "The Eerie Moors (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 401,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4012f6ef9f3c20cef89acca0736ee2e7d28.png",
+        "creatureName": "Xexk Water Titan (Champion)",
+        "description": "The Xexk Water Titan is a creature of the old world, capable of using powerful magic to manipulate water. Few encounter these creatures, opting to avoid them at all cost.",
+        "statistics": {
+            "class": "Demon",
+            "level": 242,
+            "attack": {
+                "min": 1887,
+                "max": 1985
+            },
+            "defense": {
+                "min": 892,
+                "max": 1056
+            },
+            "armor": {
+                "min": 1133,
+                "max": 1257
+            },
+            "damage": {
+                "min": 1930,
+                "max": 2104
+            },
+            "hp": {
+                "min": 5815,
+                "max": 6435
+            },
+            "gold": {
+                "min": 221,
+                "max": 263
+            },
+            "xp": {
+                "min": 958,
+                "max": 988
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:55% - 65%",
+            "Reinforced Armor:45% - 55%",
+            "Critical Hit:65% - 75%",
+            "Dodge:45% - 55%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "2409",
+                "itemName": "Armor of Ravenmore"
+            },
+            {
+                "itemId": "2369",
+                "itemName": "Boots of Pinala"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "340",
+                "realmName": "Emyr (East)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1153,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1153521def9db56e577cde1d833631113ffd.png",
+        "creatureName": "Ogalith (Titan)",
+        "description": "From the burning depths of the Abyss, the Titan known as Ogalith rises. A giant being of stone and molten fire he knows only rage and destruction for the world since his corruption at the hands of the fell Shadow Lord.",
+        "statistics": {
+            "class": "Golem",
+            "level": 100,
+            "attack": {
+                "min": 581,
+                "max": 767
+            },
+            "defense": {
+                "min": 263,
+                "max": 415
+            },
+            "armor": {
+                "min": 1242,
+                "max": 1296
+            },
+            "damage": {
+                "min": 718,
+                "max": 864
+            },
+            "hp": {
+                "min": 3360,
+                "max": 4020
+            },
+            "gold": {
+                "min": 94,
+                "max": 106
+            },
+            "xp": {
+                "min": 375,
+                "max": 435
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:70% - 80%",
+            "Reinforced Armor:5% - 10%",
+            "First Strike:20% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "7026",
+                "itemName": "Ogaliths Fiery Grasp"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "173",
+                "realmName": "Saneri Rocks (South)"
+            },
+            {
+                "realmId": "152",
+                "realmName": "Eldora Plains (North)"
+            },
+            {
+                "realmId": "167",
+                "realmName": "Kijanamo Wild (South)"
+            },
+            {
+                "realmId": "169",
+                "realmName": "Oland Briar (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1167,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1167d396e6875210faf2ca1d198d4675884e.png",
+        "creatureName": "Fuvayu (Titan)",
+        "description": "Fuvayu is a rogue demon. Having escaped the Shroud, where he has been tortured and experimented on by the Shadow Lords minions, he is ready to inflict his pain on the Realms. Finding nothing worthy of possessing, he has harnessed the very winds and is wreaking havoc everywhere he touchs down!",
+        "statistics": {
+            "class": "Demon",
+            "level": 400,
+            "attack": {
+                "min": 3198,
+                "max": 3292
+            },
+            "defense": {
+                "min": 2066,
+                "max": 2232
+            },
+            "armor": {
+                "min": 2484,
+                "max": 2648
+            },
+            "damage": {
+                "min": 4085,
+                "max": 4141
+            },
+            "hp": {
+                "min": 14168,
+                "max": 14812
+            },
+            "gold": {
+                "min": 255,
+                "max": 345
+            },
+            "xp": {
+                "min": 1575,
+                "max": 1635
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:60% - 65%",
+            "Breaker:35% - 40%",
+            "First Strike:20% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "7027",
+                "itemName": "Fuvayus Vortex Stone"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "505",
+                "realmName": "Wasteland (North)"
+            },
+            {
+                "realmId": "504",
+                "realmName": "Wasteland (East)"
+            },
+            {
+                "realmId": "510",
+                "realmName": "Dark Blade Clan Lands"
+            },
+            {
+                "realmId": "509",
+                "realmName": "Broken Fang Clan Lands"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1185,
+        "creatureImg": "https://cdn.fallensword.com/creatures/118526547a3f6e0ec2dba2fc820e538e5903.png",
+        "creatureName": "Skaldir the Chill (Titan)",
+        "description": "Skaldir the Chill is a titanic Frost Elemental. Usually, Elementals don't get quite this big, however, Skaldir was created through a natural build up of enormous magical power. While this explains her huge size, no one knows why she goes on her rampages, destroying all in her path.",
+        "statistics": {
+            "class": "Magical",
+            "level": 260,
+            "attack": {
+                "min": 1716,
+                "max": 1892
+            },
+            "defense": {
+                "min": 2141,
+                "max": 2313
+            },
+            "armor": {
+                "min": 1511,
+                "max": 1589
+            },
+            "damage": {
+                "min": 2204,
+                "max": 2382
+            },
+            "hp": {
+                "min": 7555,
+                "max": 8195
+            },
+            "gold": {
+                "min": 211,
+                "max": 309
+            },
+            "xp": {
+                "min": 985,
+                "max": 1105
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:60% - 70%",
+            "Reinforced Armor:20% - 30%",
+            "Hypnotize:20% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "7149",
+                "itemName": "Skaldirs Frostbitten Steps"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "359",
+                "realmName": "Ossrand (North)"
+            },
+            {
+                "realmId": "361",
+                "realmName": "Ossrand (East)"
+            },
+            {
+                "realmId": "363",
+                "realmName": "Vrandu (North)"
+            },
+            {
+                "realmId": "368",
+                "realmName": "Frozen Flats"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1326,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1326cef5594e501f5a5d2cbbb1f351f292f2.png",
+        "creatureName": "Tsukiyaomo (Titan)",
+        "description": "When a Mortals soul has left our world and tries to pass into the Realm of the Dead during a full moon, Dark Spirits can ensnare them making it difficult to cross. The Shadow Lord, a being of unimaginable Evil, can turn any ensnared soul into a giant Demon known as Tsukiyaomo. Conceived from hatred for those still alive, Tsukiyaomo gestates in the moon until a total eclipse which will signal it's birth. As the darkness of the eclipse abates, a Shadow descends to the earth, turning into this terrifying creature, hell bent on the annihilation of all life. It can decimate an entire village with a single sinister breath.",
+        "statistics": {
+            "class": "Demon",
+            "level": 550,
+            "attack": {
+                "min": 4502,
+                "max": 4700
+            },
+            "defense": {
+                "min": 5405,
+                "max": 5499
+            },
+            "armor": {
+                "min": 3369,
+                "max": 3585
+            },
+            "damage": {
+                "min": 2989,
+                "max": 3151
+            },
+            "hp": {
+                "min": 16402,
+                "max": 16748
+            },
+            "gold": {
+                "min": 284,
+                "max": 316
+            },
+            "xp": {
+                "min": 1928,
+                "max": 1938
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 35%",
+            "Nullify:30% - 35%",
+            "First Strike:25% - 30%",
+            "Hypnotize:30% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "7554",
+                "itemName": "Tsukiyaomos Benighted Helm"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "789",
+                "realmName": "Lao Xan City (Artisan)"
+            },
+            {
+                "realmId": "800",
+                "realmName": "Gao Tain Lake (View)"
+            },
+            {
+                "realmId": "840",
+                "realmName": "Dragon Tooth Mountain (Base)"
+            },
+            {
+                "realmId": "841",
+                "realmName": "Dragon Tooth Mountain (Ridge)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1425,
+        "creatureImg": "https://cdn.fallensword.com/creatures/142543a72129bcb2a750da08ee93ad381e0d.png",
+        "creatureName": "Colossus of Gurgriss (Titan)",
+        "description": "The Colossus of Gurgriss was built by a long lost war-like nation in praise to the God of War, Gurgriss. The Colossus was built from millions of melted down copper weapons and armor and once finished it stood so tall it almost touched the heavens. One night it was struck by lightning and came to life, The Colossus destroyed the nation that very night, some survivors saying that Gurgriss was displeased with the statue and cursed it with his rage, and it now wanders the world destroying all it comes across...",
+        "statistics": {
+            "class": "Golem",
+            "level": 700,
+            "attack": {
+                "min": 7707,
+                "max": 7797
+            },
+            "defense": {
+                "min": 2902,
+                "max": 3008
+            },
+            "armor": {
+                "min": 2469,
+                "max": 2559
+            },
+            "damage": {
+                "min": 8696,
+                "max": 8758
+            },
+            "hp": {
+                "min": 21823,
+                "max": 22077
+            },
+            "gold": {
+                "min": 285,
+                "max": 315
+            },
+            "xp": {
+                "min": 3337,
+                "max": 3679
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:30% - 35%",
+            "Critical Hit:30% - 35%",
+            "First Strike:20% - 25%",
+            "Hypnotize:40% - 45%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "8238",
+                "itemName": "Mace of the Colossus"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1027",
+                "realmName": "Sorrows Abyss (Fissure)"
+            },
+            {
+                "realmId": "1037",
+                "realmName": "Trojan Wastes (Black City)"
+            },
+            {
+                "realmId": "1048",
+                "realmName": "Gohar Barrens (Barren City)"
+            },
+            {
+                "realmId": "1059",
+                "realmName": "Nismildor Forest (Upland)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1426,
+        "creatureImg": "https://cdn.fallensword.com/creatures/14265ed7d8f3004f665970abab79d3f7e991.png",
+        "creatureName": "Air Guardian (Titan)",
+        "description": "The Air Guardian is an ancient Titan that is worshipped by thousands at the Air Temple. The Air Guardian is the embodiment of the Element of Air and the people that worship him are kind and intellectual. The worshipers of the Air Temple are fierce rivals of the Earth Temple, as they see them as being grubby and unintelligent brutes.",
+        "statistics": {
+            "class": "Magical",
+            "level": 300,
+            "attack": {
+                "min": 2058,
+                "max": 2184
+            },
+            "defense": {
+                "min": 2880,
+                "max": 2998
+            },
+            "armor": {
+                "min": 1416,
+                "max": 1480
+            },
+            "damage": {
+                "min": 2526,
+                "max": 2606
+            },
+            "hp": {
+                "min": 8765,
+                "max": 9385
+            },
+            "gold": {
+                "min": 250,
+                "max": 350
+            },
+            "xp": {
+                "min": 1198,
+                "max": 1212
+            }
+        },
+        "enhancements": [
+            "Nullify:20% - 30%",
+            "Dodge:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16626",
+                "itemName": "Air Guardian Core"
+            },
+            {
+                "itemId": "8329",
+                "itemName": "Aether Air Rune"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1259",
+                "realmName": "Land of the Elements"
+            }
+        ],
+        "additionalNotes": "Requires item: Aether Air Rune"
+    },
+    {
+        "creatureId": 1428,
+        "creatureImg": "https://cdn.fallensword.com/creatures/14283dd17fcb7d810a6ddc6d6f6d3df9e238.png",
+        "creatureName": "Water Guardian (Titan)",
+        "description": "The Water Guardian is an ancient Titan that worshipped by thousands at the Water Temple. The Water Guardian is the embodiment of the Element of Water and the people that worship him are nurturing and imaginative. The worshipers of the Water Temple are fierce rivals of the Fire Temple, as they see them as being too irrational and dangerous to be around.",
+        "statistics": {
+            "class": "Magical",
+            "level": 700,
+            "attack": {
+                "min": 4607,
+                "max": 4773
+            },
+            "defense": {
+                "min": 4327,
+                "max": 4443
+            },
+            "armor": {
+                "min": 5734,
+                "max": 5910
+            },
+            "damage": {
+                "min": 6989,
+                "max": 7113
+            },
+            "hp": {
+                "min": 26212,
+                "max": 26468
+            },
+            "gold": {
+                "min": 250,
+                "max": 350
+            },
+            "xp": {
+                "min": 3331,
+                "max": 3685
+            }
+        },
+        "enhancements": [
+            "Critical Hit:20% - 30%",
+            "Dodge:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16628",
+                "itemName": "Water Guardian Core"
+            },
+            {
+                "itemId": "8331",
+                "itemName": "Aether Water Rune"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1259",
+                "realmName": "Land of the Elements"
+            }
+        ],
+        "additionalNotes": "Requires item: Aether Water Rune"
+    },
+    {
+        "creatureId": 1429,
+        "creatureImg": "https://cdn.fallensword.com/creatures/14296d47f8ee23eb38c6bd4e4571444298fd.png",
+        "creatureName": "Fire Guardian (Titan)",
+        "description": "The Fire Guardian is an ancient Titan that worshipped by thousands at the Fire Temple. The Fire Guardian is the embodiment of the Element of Fire and the people that worship him are irrational and hot tempered. The worshipers of the Fire Temple are fierce rivals of the Water Temple, as they see them as being too emotional.",
+        "statistics": {
+            "class": "Magical",
+            "level": 500,
+            "attack": {
+                "min": 4744,
+                "max": 4856
+            },
+            "defense": {
+                "min": 1868,
+                "max": 2014
+            },
+            "armor": {
+                "min": 1643,
+                "max": 1761
+            },
+            "damage": {
+                "min": 6561,
+                "max": 6701
+            },
+            "hp": {
+                "min": 14823,
+                "max": 15327
+            },
+            "gold": {
+                "min": 281,
+                "max": 319
+            },
+            "xp": {
+                "min": 1921,
+                "max": 2089
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:20% - 30%",
+            "Breaker:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16627",
+                "itemName": "Fire Guardian Core"
+            },
+            {
+                "itemId": "8330",
+                "itemName": "Aether Fire Rune"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1259",
+                "realmName": "Land of the Elements"
+            }
+        ],
+        "additionalNotes": "Requires item: Aether Fire Rune"
+    },
+    {
+        "creatureId": 1431,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1431d28d2fd3ad1c7b77d0b3fa646bf22ecf.png",
+        "creatureName": "Guardian of Elements (Titan)",
+        "description": "The powerful Guardian of Elements is a being whos essence combines all four of the elements. It is worshipped by all the followers of the other temples at the Temple of Aether. The Guardian of Elements is said to hold the power of pure essence, an energy so great that it binds everything in the world together, thus creating all the invisible links in nature that makes the world function.",
+        "statistics": {
+            "class": "Magical",
+            "level": 900,
+            "attack": {
+                "min": 13054,
+                "max": 13110
+            },
+            "defense": {
+                "min": 8247,
+                "max": 8317
+            },
+            "armor": {
+                "min": 7939,
+                "max": 8121
+            },
+            "damage": {
+                "min": 31714,
+                "max": 31896
+            },
+            "hp": {
+                "min": 60989,
+                "max": 61411
+            },
+            "gold": {
+                "min": 239,
+                "max": 361
+            },
+            "xp": {
+                "min": 5291,
+                "max": 5559
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:20% - 25%",
+            "Dodge:25% - 30%",
+            "Sustain:25% - 30%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "10304",
+                "itemName": "Elemental Shield Blank"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1595",
+                "realmName": "Temple of Aether"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1443,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1443854766ca512614c4ea7cbcee470791e4.png",
+        "creatureName": "Earth Guardian (Titan)",
+        "description": "The Earth Guardian is an ancient Titan that worshipped by thousands at the Earth Temple. The Earth Guardian is the embodiment of the Element of Earth and the people that worship him are hard working and stubborn. The worshipers of the Earth Temple are fierce rivals of the Air Temple, as they see them as being arrogant and incapable to doing a decent days hard work.",
+        "statistics": {
+            "class": "Magical",
+            "level": 100,
+            "attack": {
+                "min": 739,
+                "max": 815
+            },
+            "defense": {
+                "min": 309,
+                "max": 373
+            },
+            "armor": {
+                "min": 338,
+                "max": 422
+            },
+            "damage": {
+                "min": 1495,
+                "max": 1657
+            },
+            "hp": {
+                "min": 2818,
+                "max": 3332
+            },
+            "gold": {
+                "min": 90,
+                "max": 110
+            },
+            "xp": {
+                "min": 399,
+                "max": 411
+            }
+        },
+        "enhancements": [
+            "Critical Hit:20% - 30%",
+            "Dodge:20% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16625",
+                "itemName": "Earth Guardian Core"
+            },
+            {
+                "itemId": "8328",
+                "itemName": "Aether Earth Rune"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1259",
+                "realmName": "Land of the Elements"
+            }
+        ],
+        "additionalNotes": "Requires item: Aether Earth Rune"
+    },
+    {
+        "creatureId": 1509,
+        "creatureImg": "https://cdn.fallensword.com/creatures/15090393d23f28cd39c5f26bfc5633175a82.png",
+        "creatureName": "Deepwater Kraken (Titan)",
+        "description": "From the dark watery realms of the deep, the Kraken rises. From a time long forgotten, in the mists of ages, this beast towers over all. Even the most powerful must be wary of this monstrosity. It is said that it is immune to all weaponry bar the touch of the frost. It never comes in winter, only when the warm waters stir does it afflict the realm of the living.",
+        "statistics": {
+            "class": "Aquatic",
+            "level": 60,
+            "attack": {
+                "min": 645,
+                "max": 757
+            },
+            "defense": {
+                "min": 193,
+                "max": 347
+            },
+            "armor": {
+                "min": 228,
+                "max": 332
+            },
+            "damage": {
+                "min": 541,
+                "max": 703
+            },
+            "hp": {
+                "min": 1631,
+                "max": 2119
+            },
+            "gold": {
+                "min": 55,
+                "max": 65
+            },
+            "xp": {
+                "min": 230,
+                "max": 260
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:22% - 25%",
+            "Reinforced Armor:45% - 50%",
+            "Breaker:13% - 15%",
+            "First Strike:14% - 15%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "8660",
+                "itemName": "Deepwater Choker"
+            },
+            {
+                "itemId": "8656",
+                "itemName": "Shin Yarin Longsword"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1312",
+                "realmName": "Plague Mist Isles (North)"
+            },
+            {
+                "realmId": "1313",
+                "realmName": "Plague Mist Isles (South)"
+            },
+            {
+                "realmId": "1314",
+                "realmName": "Plague Mist Isles (East)"
+            },
+            {
+                "realmId": "1315",
+                "realmName": "Plague Mist Isles (West)"
+            }
+        ],
+        "additionalNotes": "Requires item: Shin Yarin Longsword"
+    },
+    {
+        "creatureId": 1695,
+        "creatureImg": "https://cdn.fallensword.com/creatures/16956c2f7cbd06250866ea75d618f64b8062.png",
+        "creatureName": "Fawkes Wickerman (Titan)",
+        "description": "The Fawkes Wickerman is created once a year by the evil Druids of Fawkes who live deep in the mountains. The Druids are known to be in league with the Shadow Lord himself. The Fawkes Wickerman is filled with living captives who would dare oppose the will of the Shadowlord. As they burn alive within the Wickerman the souls of the victims fuel the Wickermans rampage only stopping once he is burned to cinders...",
+        "statistics": {
+            "class": "Magical",
+            "level": 180,
+            "attack": {
+                "min": 1889,
+                "max": 2001
+            },
+            "defense": {
+                "min": 546,
+                "max": 596
+            },
+            "armor": {
+                "min": 505,
+                "max": 687
+            },
+            "damage": {
+                "min": 2273,
+                "max": 2451
+            },
+            "hp": {
+                "min": 5237,
+                "max": 5713
+            },
+            "gold": {
+                "min": 152,
+                "max": 208
+            },
+            "xp": {
+                "min": 694,
+                "max": 756
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:70% - 80%",
+            "First Strike:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "10051",
+                "itemName": "Wickermans Burning Breastplate"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "272",
+                "realmName": "Brale (East)"
+            },
+            {
+                "realmId": "269",
+                "realmName": "Naral (West)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 1865,
+        "creatureImg": "https://cdn.fallensword.com/creatures/1865764d0a13467349a15687cbc6be9657f1.png",
+        "creatureName": "Graganath Dragonbane (Titan)",
+        "description": "The Giant Cyclops Graganath Dragonbane is well known for his battles with other Giants and he famously slew the dragon Kaughlor for his hide. Recently it is said that Garganath has found service within the hordes of the Shadowlord and has been gifted with armor and a hammer made specially for the Cyclops in the dark forges and blessed with magic that has made Garganath stronger than ever before...",
+        "statistics": {
+            "class": "Beast",
+            "level": 1101,
+            "attack": {
+                "min": 18610,
+                "max": 18756
+            },
+            "defense": {
+                "min": 4601,
+                "max": 4783
+            },
+            "armor": {
+                "min": 17808,
+                "max": 17926
+            },
+            "damage": {
+                "min": 46766,
+                "max": 46908
+            },
+            "hp": {
+                "min": 126638,
+                "max": 127032
+            },
+            "gold": {
+                "min": 256,
+                "max": 344
+            },
+            "xp": {
+                "min": 6616,
+                "max": 6646
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 40%",
+            "Reinforced Armor:40% - 60%",
+            "Critical Hit:20% - 40%",
+            "First Strike:20% - 40%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "10500",
+                "itemName": "Dragon Draped Breastplate"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1620",
+                "realmName": "Shuito Desolation (Plain)"
+            },
+            {
+                "realmId": "1621",
+                "realmName": "Shuito Desolation (Waste)"
+            },
+            {
+                "realmId": "1622",
+                "realmName": "Shuito Desolation (Howling Sands)"
+            },
+            {
+                "realmId": "1623",
+                "realmName": "Shuito Desolation (Hollows)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2410,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2410f29c3272d60521a6ac25017b33c3c3d3.png",
+        "creatureName": "Epidemicus (Titan)",
+        "description": "The Titan called Epidemicus is a foul creation of the Shadow Lord. The Dark One has poured his hatred and loathing for the good and the Light into the form of a plague carrying insect and allowed it to replicate and form large swarms in the Shroud. This unholy swarm has a hive consciousness, every roach in the swarm knowing what all the others know. The Shadow Lords poisonous being has given the gestalt creature one desire. The eradication of life from the world through disease and plague. It is a shimmering, iridescent epidemic come to foul life, spreading death and despair in it's wake and it must be destroyed!",
+        "statistics": {
+            "class": "Vermin",
+            "level": 1200,
+            "attack": {
+                "min": 12733,
+                "max": 12819
+            },
+            "defense": {
+                "min": 969,
+                "max": 1111
+            },
+            "armor": {
+                "min": 66826,
+                "max": 66940
+            },
+            "damage": {
+                "min": 23203,
+                "max": 23397
+            },
+            "hp": {
+                "min": 124524,
+                "max": 125076
+            },
+            "gold": {
+                "min": 294,
+                "max": 306
+            },
+            "xp": {
+                "min": 6760,
+                "max": 7690
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Reinforced Armor:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "Dodge:20% - 40%",
+            "Disarm:20% - 40%",
+            "Hypnotize:10% - 20%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "12631",
+                "itemName": "Roach Rune of Epidemicus"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1773",
+                "realmName": "Atrum Farmland (Labor Homes)"
+            },
+            {
+                "realmId": "1778",
+                "realmName": "Dyseki Town (Center)"
+            },
+            {
+                "realmId": "1829",
+                "realmName": "Ungla Mountains (Slime Haunt)"
+            },
+            {
+                "realmId": "1748",
+                "realmName": "Zendell Keep (Battlements)"
+            },
+            {
+                "realmId": "1742",
+                "realmName": "Zendell Swamp (Sump)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2601,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2601c9d14c3866d5f0425f7a1a14c19582d9.png",
+        "creatureName": "Tommy Aches (Titan)",
+        "description": "There was a selfish baker who plotted the downfall of his rivals, cheated his customers and charged more for an inferior cake and yet he still had the audacity to pray to Sahria for wealth and the Greatest cake in all the lands. That night his wish was granted and the Titan known as Tommy Aches rose from the baker's kitchen, his chocolate covered mallow and jam body swelling in great size and squishing the baker before blundering away in a random direction.",
+        "statistics": {
+            "class": "Magical",
+            "level": 300,
+            "attack": {
+                "min": 854,
+                "max": 1026
+            },
+            "defense": {
+                "min": 41,
+                "max": 91
+            },
+            "armor": {
+                "min": 4198,
+                "max": 4390
+            },
+            "damage": {
+                "min": 1295,
+                "max": 1401
+            },
+            "hp": {
+                "min": 6482,
+                "max": 6818
+            },
+            "gold": {
+                "min": 1,
+                "max": 1
+            },
+            "xp": {
+                "min": 1,
+                "max": 1
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:10% - 20%",
+            "Critical Hit:10% - 20%",
+            "First Strike:30% - 40%",
+            "Soulless:30% - 40%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13288",
+                "itemName": "Mashing Mallow Mitts"
+            },
+            {
+                "itemId": "13268",
+                "itemName": "Spook Smasher Caster"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2267",
+                "realmName": "Haunt of Tommy Aches"
+            }
+        ],
+        "additionalNotes": "Requires item: Spook Smasher Caster"
+    },
+    {
+        "creatureId": 2617,
+        "creatureImg": "https://cdn.fallensword.com/creatures/26174bb4169fb2971bb19c3f7ac46cd1cff7.png",
+        "creatureName": "Cyclonus Storm Lord (Titan)",
+        "description": "Cyclonus Storm Lord is a vast elemental being dedicated to destruction. From all around his massive form, rain lashes down, flooding areas while lightning lances from the Storm Lords hands, laying waste to everything around. Why Cyclonus feels this need to destroy, none can say. All we know is that it must be stopped!",
+        "statistics": {
+            "class": "Magical",
+            "level": 125,
+            "attack": {
+                "min": 648,
+                "max": 832
+            },
+            "defense": {
+                "min": 666,
+                "max": 858
+            },
+            "armor": {
+                "min": 662,
+                "max": 788
+            },
+            "damage": {
+                "min": 791,
+                "max": 899
+            },
+            "hp": {
+                "min": 2730,
+                "max": 3420
+            },
+            "gold": {
+                "min": 87,
+                "max": 113
+            },
+            "xp": {
+                "min": 395,
+                "max": 415
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 30%",
+            "Critical Hit:20% - 30%",
+            "Dodge:20% - 30%",
+            "First Strike:15% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13376",
+                "itemName": "Arcing Sabatons of Cyclonus"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "196",
+                "realmName": "Jahd Swamps (South)"
+            },
+            {
+                "realmId": "204",
+                "realmName": "Dekma Jungle (South)"
+            },
+            {
+                "realmId": "209",
+                "realmName": "Anklar Flats (North)"
+            },
+            {
+                "realmId": "218",
+                "realmName": "Grintz Forest (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2618,
+        "creatureImg": "https://cdn.fallensword.com/creatures/261827c31638872804ea6638dc8b4c02a3f1.png",
+        "creatureName": "Venoxa Wyvern Father (Titan)",
+        "description": "Venoxa is know to Dragonologists as the first true Wyvern and thus the progenitor of all Wyvern after him. The so called Wyvern Father is a creature from ancient times where even when he was smaller and younger he was feared, for if the poison gas he emitted didn't kill you, his venomous stinger would. Venoxa is no noble Dragon and seeks only to kill and devour and due to his current titanic size he can easily wipe out a town in mere moments, choking or crushing all to death.",
+        "statistics": {
+            "class": "Dragon",
+            "level": 250,
+            "attack": {
+                "min": 1223,
+                "max": 1375
+            },
+            "defense": {
+                "min": 2302,
+                "max": 2402
+            },
+            "armor": {
+                "min": 2207,
+                "max": 2371
+            },
+            "damage": {
+                "min": 1595,
+                "max": 1671
+            },
+            "hp": {
+                "min": 7344,
+                "max": 7806
+            },
+            "gold": {
+                "min": 247,
+                "max": 253
+            },
+            "xp": {
+                "min": 951,
+                "max": 1059
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 30%",
+            "Critical Hit:25% - 35%",
+            "Hypnotize:50% - 60%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13377",
+                "itemName": "Venoxa Tox Gland"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "350",
+                "realmName": "Gerlond (South)"
+            },
+            {
+                "realmId": "356",
+                "realmName": "Ghelmot (South)"
+            },
+            {
+                "realmId": "360",
+                "realmName": "Ossrand (South)"
+            },
+            {
+                "realmId": "366",
+                "realmName": "Aldmar Swamps (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2619,
+        "creatureImg": "https://cdn.fallensword.com/creatures/261935073ad61bbc8d292e1877d0b053471d.png",
+        "creatureName": "Echiphon the Hydra (Titan)",
+        "description": "Echiphon the Hydra is a vile, poisonous beast. As a hydra, it is also close to unkillable. This vast beast roams the Realms looking for any other creatures to kill with it's venomous bite before devouring it's meal whole.",
+        "statistics": {
+            "class": "Reptile",
+            "level": 450,
+            "attack": {
+                "min": 5653,
+                "max": 5709
+            },
+            "defense": {
+                "min": 8982,
+                "max": 9050
+            },
+            "armor": {
+                "min": 8898,
+                "max": 9068
+            },
+            "damage": {
+                "min": 5506,
+                "max": 5630
+            },
+            "hp": {
+                "min": 28961,
+                "max": 29539
+            },
+            "gold": {
+                "min": 261,
+                "max": 339
+            },
+            "xp": {
+                "min": 1968,
+                "max": 2122
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:5% - 15%",
+            "First Strike:30% - 60%",
+            "Hypnotize:30% - 60%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13408",
+                "itemName": "Echiphons Scale Gauntlets"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "623",
+                "realmName": "Dark Mist Forest (Edge)"
+            },
+            {
+                "realmId": "629",
+                "realmName": "Dark Mist Forest (Depths)"
+            },
+            {
+                "realmId": "633",
+                "realmName": "Dark Mist Forest (Range)"
+            },
+            {
+                "realmId": "637",
+                "realmName": "Thundersnow Valley (South)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2620,
+        "creatureImg": "https://cdn.fallensword.com/creatures/26203bde30cb0fd1d7f7a0e54bcd94ee8a7b.png",
+        "creatureName": "Krakaradon (Titan)",
+        "description": "The Krakaradon is a gigantic creature from the blackest depths of the Lorsil Coast. This aquatic terror leaves its underwater home all to regularly and rampages over Draynoth Bay and the surrounding islands, in fact it is said that the lighthouse at Draynoth Port might actually be what attracts the beast to land for it normally attacks during storms or bad weather when the lighthouse is in use full use.",
+        "statistics": {
+            "class": "Aquatic",
+            "level": 1131,
+            "attack": {
+                "min": 44760,
+                "max": 44914
+            },
+            "defense": {
+                "min": 2355,
+                "max": 2433
+            },
+            "armor": {
+                "min": 883,
+                "max": 1037
+            },
+            "damage": {
+                "min": 47748,
+                "max": 47868
+            },
+            "hp": {
+                "min": 115046,
+                "max": 115354
+            },
+            "gold": {
+                "min": 289,
+                "max": 311
+            },
+            "xp": {
+                "min": 6999,
+                "max": 7451
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Reinforced Armor:20% - 50%",
+            "Critical Hit:20% - 50%",
+            "Disarm:10% - 20%",
+            "First Strike:20% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13409",
+                "itemName": "Krakaradon Tooth Harpoon"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1657",
+                "realmName": "Port Draynoth (Harbour)"
+            },
+            {
+                "realmId": "1661",
+                "realmName": "Pagdush Island (Jungle Edge)"
+            },
+            {
+                "realmId": "1664",
+                "realmName": "Tainted Isle (Coast)"
+            },
+            {
+                "realmId": "1667",
+                "realmName": "Tainted Isle (Flaming Chasm)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2621,
+        "creatureImg": "https://cdn.fallensword.com/creatures/26217a067625ea683306c8b92c810e13b4b6.png",
+        "creatureName": "Shezmu of King Sothad (Titan)",
+        "description": "The ancient undead King Sothad dwells deep within his pyramid tomb, trapped within a magic casket that his undying body may never escape from, driving him insane with rage. However his magical powers are amplified by his pyramids magical construction and through it, he channels vast unholy powers from the cosmos. With such power he has created the Shezmu, a magical construct of death formed from the very land around his tomb with which to destroy his enemies.",
+        "statistics": {
+            "class": "Magical",
+            "level": 600,
+            "attack": {
+                "min": 4404,
+                "max": 4472
+            },
+            "defense": {
+                "min": 25414,
+                "max": 25598
+            },
+            "armor": {
+                "min": 326,
+                "max": 454
+            },
+            "damage": {
+                "min": 8588,
+                "max": 8740
+            },
+            "hp": {
+                "min": 38860,
+                "max": 39140
+            },
+            "gold": {
+                "min": 258,
+                "max": 342
+            },
+            "xp": {
+                "min": 3418,
+                "max": 3832
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:60% - 80%",
+            "Critical Hit:35% - 55%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13410",
+                "itemName": "Pyramid Amulet of King Sothad"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "874",
+                "realmName": "Elridge Plains (South)"
+            },
+            {
+                "realmId": "879",
+                "realmName": "Desert of Brigands (North)"
+            },
+            {
+                "realmId": "883",
+                "realmName": "Bleak Caves (Mouth)"
+            },
+            {
+                "realmId": "881",
+                "realmName": "Desert of Brigands (South)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2622,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2622c9c8f256c898c03fc466995c1fce13c1.png",
+        "creatureName": "Lestus (Titan)",
+        "description": "Lestus is a personification of death and a servant to the gods of death. Wars, battles, plagues and other disasters where loss of life is at it's greatest draws his sinister form like a moth to a flame. His giant form takes the shape of a reaper made from the skeletons of the fallen and the ash of the cremated. As his form takes shape over mortals and blots out the sun, you should just pray for your soul, as your bones are now his...",
+        "statistics": {
+            "class": "Undead",
+            "level": 60,
+            "attack": {
+                "min": 366,
+                "max": 560
+            },
+            "defense": {
+                "min": 370,
+                "max": 560
+            },
+            "armor": {
+                "min": 403,
+                "max": 493
+            },
+            "damage": {
+                "min": 451,
+                "max": 543
+            },
+            "hp": {
+                "min": 1651,
+                "max": 2099
+            },
+            "gold": {
+                "min": 55,
+                "max": 65
+            },
+            "xp": {
+                "min": 229,
+                "max": 261
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 30%",
+            "Reinforced Armor:20% - 30%",
+            "Critical Hit:20% - 30%",
+            "Disarm:15% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13411",
+                "itemName": "Death Ring of Lestus"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1271",
+                "realmName": "Domain of the Fallen"
+            },
+            {
+                "realmId": "106",
+                "realmName": "Orcan Forest South"
+            },
+            {
+                "realmId": "108",
+                "realmName": "Ragtall Forest Outskirts"
+            },
+            {
+                "realmId": "115",
+                "realmName": "Feidal Swamps West"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2624,
+        "creatureImg": "https://cdn.fallensword.com/creatures/262420eb7b57dbfad6eb754cbb835b21675d.png",
+        "creatureName": "Wazargs Siege Fortress (Titan)",
+        "description": "Wazarg is a genius by Orc standards, having seen how effective siege towers were he decided to make the worlds largest and dangerous version by putting his own Fortress on wheels, that are pushed by a legion of trolls from within, and arming with a barn sized battering ram for smashing down enemy castles. To date no castle has survived an attack by the Siege Fortress and Wazargs huge army held within.",
+        "statistics": {
+            "class": "Mechanical",
+            "level": 250,
+            "attack": {
+                "min": 3346,
+                "max": 3518
+            },
+            "defense": {
+                "min": 74,
+                "max": 228
+            },
+            "armor": {
+                "min": 1,
+                "max": 165
+            },
+            "damage": {
+                "min": 3827,
+                "max": 4001
+            },
+            "hp": {
+                "min": 7380,
+                "max": 7770
+            },
+            "gold": {
+                "min": 217,
+                "max": 283
+            },
+            "xp": {
+                "min": 954,
+                "max": 1056
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:25% - 35%",
+            "Critical Hit:20% - 30%",
+            "First Strike:40% - 60%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13413",
+                "itemName": "Wazargs Siege Helm"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "353",
+                "realmName": "Nimaos (North)"
+            },
+            {
+                "realmId": "350",
+                "realmName": "Gerlond (South)"
+            },
+            {
+                "realmId": "358",
+                "realmName": "Ghelmot (West)"
+            },
+            {
+                "realmId": "364",
+                "realmName": "Vrandu (South)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2625,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2625df263b5b6c26b19152be8be77a4eef2f.png",
+        "creatureName": "Boteroth (Titan)",
+        "description": "The great Demon Boteroth was sent forth by his unearthly master like a giant war hound to the mortal world to cause untold destruction. He has succeeded in this task, and when called back by his master he refused. Instead Boteroth remained upon the world enjoying his freedom from the side of his master. Here he is a being to be reckoned with and a master of death, back in shadows he is but a pet. He has made his choice...",
+        "statistics": {
+            "class": "Demon",
+            "level": 750,
+            "attack": {
+                "min": 4555,
+                "max": 4739
+            },
+            "defense": {
+                "min": 7297,
+                "max": 7387
+            },
+            "armor": {
+                "min": 7348,
+                "max": 7412
+            },
+            "damage": {
+                "min": 4048,
+                "max": 4210
+            },
+            "hp": {
+                "min": 23219,
+                "max": 23781
+            },
+            "gold": {
+                "min": 259,
+                "max": 341
+            },
+            "xp": {
+                "min": 3478,
+                "max": 4038
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:25% - 35%",
+            "Critical Hit:25% - 35%",
+            "Dodge:25% - 35%",
+            "Disarm:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13414",
+                "itemName": "Rune of Boteroth"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1073",
+                "realmName": "Azlatha Kingdom (Thicket)"
+            },
+            {
+                "realmId": "1076",
+                "realmName": "Khiir Forest (Upland)"
+            },
+            {
+                "realmId": "1081",
+                "realmName": "Ethigor City (Grounds)"
+            },
+            {
+                "realmId": "1087",
+                "realmName": "Lindorik Kingdom (Valley)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2626,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2626f7511ad1acfd1fb5818271caadf3ae34.png",
+        "creatureName": "Kantec (Titan)",
+        "description": "When Kantec was young her tribe was destroyed, she only survived the massacre by hiding in the tribes temple. That night she prayed to her peoples Gods of vengeance, vowing to one day become the greatest warrior and avenge her people. The Gods were listening and granted her wish. However the Gods are also fickle and as Kantec got older she also grew to a huge size. Now taller than a Giant she truly is the Greatest warrior...",
+        "statistics": {
+            "class": "Human",
+            "level": 125,
+            "attack": {
+                "min": 430,
+                "max": 588
+            },
+            "defense": {
+                "min": 2537,
+                "max": 2699
+            },
+            "armor": {
+                "min": 7,
+                "max": 69
+            },
+            "damage": {
+                "min": 617,
+                "max": 699
+            },
+            "hp": {
+                "min": 3541,
+                "max": 4109
+            },
+            "gold": {
+                "min": 112,
+                "max": 138
+            },
+            "xp": {
+                "min": 480,
+                "max": 530
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:40% - 60%",
+            "Dodge:10% - 30%",
+            "Disarm:5% - 25%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13415",
+                "itemName": "Feather Amulet of Kantec"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "198",
+                "realmName": "Jahd Swamps (North)"
+            },
+            {
+                "realmId": "197",
+                "realmName": "Jahd Swamps (East)"
+            },
+            {
+                "realmId": "201",
+                "realmName": "Werzel Islands (East)"
+            },
+            {
+                "realmId": "206",
+                "realmName": "Dekma Jungle (West)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2627,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2627ab645eb5bc9ad12d19673aa02e73eabe.png",
+        "creatureName": "Gorgeanaka (Titan)",
+        "description": "Gorgeanaka is no dragon or ancient lizard from the dawn of time. Instead he was the unfortunate pet of a wizard who was developing an enlargement potion for his own use. However Gorgeanaka fell into the unfinished potion. In an instant he grew to a colossal size, rapidly mutating and gaining the power to blast magical balefire from his mouth and thus becoming the rampaging monster he is today.",
+        "statistics": {
+            "class": "Reptile",
+            "level": 450,
+            "attack": {
+                "min": 6176,
+                "max": 6258
+            },
+            "defense": {
+                "min": 295,
+                "max": 359
+            },
+            "armor": {
+                "min": 83,
+                "max": 187
+            },
+            "damage": {
+                "min": 6857,
+                "max": 6931
+            },
+            "hp": {
+                "min": 13454,
+                "max": 13696
+            },
+            "gold": {
+                "min": 263,
+                "max": 337
+            },
+            "xp": {
+                "min": 1793,
+                "max": 1817
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:5% - 15%",
+            "Dodge:30% - 60%",
+            "Disarm:30% - 60%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13416",
+                "itemName": "Gorgeanaka Skin Shoes"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "627",
+                "realmName": "Dark Mist Forest (Hill)"
+            },
+            {
+                "realmId": "634",
+                "realmName": "Dark Mist Forest (Murk)"
+            },
+            {
+                "realmId": "619",
+                "realmName": "Caves of Kreth (Level 10)"
+            },
+            {
+                "realmId": "632",
+                "realmName": "Dark Mist Forest (Haunt)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2628,
+        "creatureImg": "https://cdn.fallensword.com/creatures/262831a705bbad9c75ea34a94f833ad4d77b.png",
+        "creatureName": "Kojin (Titan)",
+        "description": "The elemental being known as Kojin is said to come forth from the sun itself, a being of immense power sent by the Solar deities when their tempers flare. Where the Sun also has many positive effects upon the world as giver of life and light, Kojin and his white hot spear of flame represent the destructive forces the sun can inflict upon the world such as scorching heatwaves and drought.",
+        "statistics": {
+            "class": "Golem",
+            "level": 1200,
+            "attack": {
+                "min": 10459,
+                "max": 10581
+            },
+            "defense": {
+                "min": 890,
+                "max": 1030
+            },
+            "armor": {
+                "min": 63415,
+                "max": 63503
+            },
+            "damage": {
+                "min": 20959,
+                "max": 21159
+            },
+            "hp": {
+                "min": 114961,
+                "max": 115439
+            },
+            "gold": {
+                "min": 235,
+                "max": 365
+            },
+            "xp": {
+                "min": 7109,
+                "max": 7341
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 50%",
+            "Reinforced Armor:20% - 50%",
+            "Critical Hit:20% - 50%",
+            "First Strike:50% - 70%",
+            "Hypnotize:10% - 30%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13417",
+                "itemName": "Helm of Kojin"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1770",
+                "realmName": "Zendell Mire (Wallow)"
+            },
+            {
+                "realmId": "1774",
+                "realmName": "Atrum Farmland (Milking Barns)"
+            },
+            {
+                "realmId": "1813",
+                "realmName": "Tarran Wastes (Plains)"
+            },
+            {
+                "realmId": "1828",
+                "realmName": "Ungla Mountains (Grazing Lands)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2659,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2659f6ea2a9971b6eb7c48eb0975985a4bd1.png",
+        "creatureName": "The Elder Terror (Titan)",
+        "description": "Rising from the boiling depths of twisted nightmares, this horror of Elsewhere devours all light, life and hope. All tremble when it walks upon the earth. They mutter desperate prayers to whatever god will listen, so that this gigantic monstrosity might somehow pass them by.",
+        "statistics": {
+            "class": "Demon",
+            "level": 1600,
+            "attack": {
+                "min": 22670,
+                "max": 22868
+            },
+            "defense": {
+                "min": 40237,
+                "max": 40401
+            },
+            "armor": {
+                "min": 39756,
+                "max": 39826
+            },
+            "damage": {
+                "min": 25090,
+                "max": 25148
+            },
+            "hp": {
+                "min": 153359,
+                "max": 153841
+            },
+            "gold": {
+                "min": 290,
+                "max": 310
+            },
+            "xp": {
+                "min": 32546,
+                "max": 34614
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:25% - 50%",
+            "Critical Hit:25% - 50%",
+            "First Strike:25% - 50%",
+            "Hypnotize:25% - 50%",
+            "Soulless:80% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13498",
+                "itemName": "The Mask of Terror"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2311",
+                "realmName": "Sea Razor Isle (Morbid Lagoon)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2661,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2661e6445e7ce315c20ce7a5e7b636a3a179.png",
+        "creatureName": "Krumpers (Xmas Titan)",
+        "description": "The Titan known as Krumpers is a demonic being known to be associated with that vile piece of Seasonal Woe, Santork Claws. Santorc was the only being capable of summoning Krumpers, who would then wander the snowy forests terrorizing children into being good.",
+        "statistics": {
+            "class": "Demon",
+            "level": 50,
+            "attack": {
+                "min": 245,
+                "max": 329
+            },
+            "defense": {
+                "min": 390,
+                "max": 576
+            },
+            "armor": {
+                "min": 437,
+                "max": 527
+            },
+            "damage": {
+                "min": 277,
+                "max": 365
+            },
+            "hp": {
+                "min": 1273,
+                "max": 1877
+            },
+            "gold": {
+                "min": 40,
+                "max": 60
+            },
+            "xp": {
+                "min": 201,
+                "max": 209
+            }
+        },
+        "enhancements": [
+            "First Strike:25% - 35%",
+            "Hypnotize:25% - 35%",
+            "Soulless:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13603",
+                "itemName": "Krumpers Woolly Armor"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2316",
+                "realmName": "Forest of Yule (Haunt)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 2930,
+        "creatureImg": "https://cdn.fallensword.com/creatures/2930dc5169d2e19e375d3f6957e701efb3f2.png",
+        "creatureName": "Statue of Gurgriss' Wrath (Titan)",
+        "description": "The Statue of Gurgriss' Wrath normally stands facing out from the Colosseum OF Gurgriss. The desperate measures taken to break through the slime covering the Cathedral of Ways have imbued it with a temporary life of it's own! Those who have awoken it will have to stop it from hurting the innocent.",
+        "statistics": {
+            "class": "Magical",
+            "level": 700,
+            "attack": {
+                "min": 42395,
+                "max": 42483
+            },
+            "defense": {
+                "min": 406,
+                "max": 546
+            },
+            "armor": {
+                "min": 423,
+                "max": 529
+            },
+            "damage": {
+                "min": 22834,
+                "max": 22902
+            },
+            "hp": {
+                "min": 9246,
+                "max": 9794
+            },
+            "gold": {
+                "min": 241,
+                "max": 359
+            },
+            "xp": {
+                "min": 4121,
+                "max": 4329
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Reinforced Armor:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "First Strike:30% - 50%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13722",
+                "itemName": "Wrath of Gurgriss Cuirass"
+            },
+            {
+                "itemId": "13723",
+                "itemName": "Spook Smasher Slime Spewer"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2528",
+                "realmName": "Battleground of Gurgriss"
+            }
+        ],
+        "additionalNotes": "Requires item: Spook Smasher Slime Spewer"
+    },
+    {
+        "creatureId": 3092,
+        "creatureImg": "https://cdn.fallensword.com/creatures/30929dccfb708d60b8652d5fa669c068929e.png",
+        "creatureName": "Gargantuan Nutcracker (Xmas Titan)",
+        "description": "This colossal wooden behemoth has escaped it's makers colourful workshop of festive terror to wreak havoc upon the inhabitants of the Forest of Yule. Someone wants these people to suffer. Odds are the Spirit of Santork has had a hand in this!",
+        "statistics": {
+            "class": "Magical",
+            "level": 900,
+            "attack": {
+                "min": 52651,
+                "max": 52737
+            },
+            "defense": {
+                "min": 552,
+                "max": 672
+            },
+            "armor": {
+                "min": 521,
+                "max": 703
+            },
+            "damage": {
+                "min": 31204,
+                "max": 31340
+            },
+            "hp": {
+                "min": 11902,
+                "max": 12578
+            },
+            "gold": {
+                "min": 261,
+                "max": 339
+            },
+            "xp": {
+                "min": 5377,
+                "max": 5473
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "First Strike:30% - 50%",
+            "Soulless:30% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13809",
+                "itemName": "Nutcrackers Walnut Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1594",
+                "realmName": "Forest of Yule (Wilds)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3094,
+        "creatureImg": "https://cdn.fallensword.com/creatures/3094c53556468a242e900bd26c5e28f4c9bc.png",
+        "creatureName": "The Eater Of Time (Titan)",
+        "description": "The Eater of Time quenches his eternal thirst on the destiny and fate of the living. From the boiling depths of Elsewhere he rises to reshape the past, present and future into his vision of what was and what will be.",
+        "statistics": {
+            "class": "Demon",
+            "level": 1925,
+            "attack": {
+                "min": 118347,
+                "max": 118399
+            },
+            "defense": {
+                "min": 1738,
+                "max": 1862
+            },
+            "armor": {
+                "min": 1706,
+                "max": 1894
+            },
+            "damage": {
+                "min": 128531,
+                "max": 128641
+            },
+            "hp": {
+                "min": 50264,
+                "max": 50536
+            },
+            "gold": {
+                "min": 75,
+                "max": 525
+            },
+            "xp": {
+                "min": 47914,
+                "max": 49310
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:75% - 100%",
+            "Critical Hit:75% - 100%",
+            "Disarm:75% - 100%",
+            "First Strike:50% - 75%",
+            "Hypnotize:50% - 75%",
+            "Soulless:75% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13817",
+                "itemName": "Choker of Time"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2686",
+                "realmName": "Twisting Dark (Churning Nether)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3526,
+        "creatureImg": "https://cdn.fallensword.com/creatures/3526d947f10d4a38e5cb40b23eacd7bb596c.png",
+        "creatureName": "Kraganath the Destroyer (Titan)",
+        "description": "Kraganath the Destroyer is a mighty armoured colossus of unknown origin. This gigantic engine of destruction is cutting a swathe through the Realms. He must be stopped!",
+        "statistics": {
+            "class": "Magical",
+            "level": 2200,
+            "attack": {
+                "min": 93234,
+                "max": 93420
+            },
+            "defense": {
+                "min": 5292,
+                "max": 5462
+            },
+            "armor": {
+                "min": 1885,
+                "max": 2075
+            },
+            "damage": {
+                "min": 97265,
+                "max": 97363
+            },
+            "hp": {
+                "min": 276923,
+                "max": 277477
+            },
+            "gold": {
+                "min": 268,
+                "max": 332
+            },
+            "xp": {
+                "min": 59751,
+                "max": 67243
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:75% - 100%",
+            "Reinforced Armor:75% - 100%",
+            "Critical Hit:75% - 100%",
+            "Breaker:75% - 100%",
+            "First Strike:25% - 50%",
+            "Soulless:75% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14025",
+                "itemName": "Kraganaths Krushing Helm"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2978",
+                "realmName": "Souale Crystal Field (South)"
+            },
+            {
+                "realmId": "2979",
+                "realmName": "Souale Crystal Field (West)"
+            },
+            {
+                "realmId": "2987",
+                "realmName": "Forest of Ardyea (Outskirts)"
+            },
+            {
+                "realmId": "2991",
+                "realmName": "Forest of Ardyea (Wilds)"
+            },
+            {
+                "realmId": "2997",
+                "realmName": "Aleteer Forest (Tall Trees)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3769,
+        "creatureImg": "https://cdn.fallensword.com/creatures/3769211c9ba46b2bfc3aa3cf643ac0d00f72.png",
+        "creatureName": "Sylvestris the Despair Bringer (Xmas Titan)",
+        "description": "Sylvestris the Despair Bringer is a spirit who will find an item or being that is being venerated or revered, and he will possess a similar item, growing it to gargantuan proportions and sowing despair among the previously happy people. He did not expect this for to quite so......colourful though.",
+        "statistics": {
+            "class": "Plant",
+            "level": 375,
+            "attack": {
+                "min": 1760,
+                "max": 1954
+            },
+            "defense": {
+                "min": 3457,
+                "max": 3653
+            },
+            "armor": {
+                "min": 3361,
+                "max": 3495
+            },
+            "damage": {
+                "min": 2434,
+                "max": 2532
+            },
+            "hp": {
+                "min": 11049,
+                "max": 11601
+            },
+            "gold": {
+                "min": 293,
+                "max": 307
+            },
+            "xp": {
+                "min": 1499,
+                "max": 1511
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:40% - 60%",
+            "Nullify:40% - 60%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14096",
+                "itemName": "Sylvestris Pine Loop"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "496",
+                "realmName": "Broken Lands (South)"
+            },
+            {
+                "realmId": "501",
+                "realmName": "Forgotten Plateau (Inner)"
+            },
+            {
+                "realmId": "503",
+                "realmName": "Wasteland (West)"
+            },
+            {
+                "realmId": "475",
+                "realmName": "Great Plains (North)"
+            },
+            {
+                "realmId": "485",
+                "realmName": "Hidden Valley (East)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3770,
+        "creatureImg": "https://cdn.fallensword.com/creatures/377036cf21cd4965d164817bfd65d70f0965.png",
+        "creatureName": "Granny Jeze (Xmas Titan)",
+        "description": "Granny Jeze is a magical being, a giant Ogress and she is filled with loathing for all in the forest of Yule. She has used her vile magic to grow to Titanic sizes and is laying waste to the area!",
+        "statistics": {
+            "class": "Magical",
+            "level": 550,
+            "attack": {
+                "min": 7106,
+                "max": 7242
+            },
+            "defense": {
+                "min": 180,
+                "max": 352
+            },
+            "armor": {
+                "min": 126,
+                "max": 204
+            },
+            "damage": {
+                "min": 8938,
+                "max": 8998
+            },
+            "hp": {
+                "min": 16350,
+                "max": 16800
+            },
+            "gold": {
+                "min": 296,
+                "max": 304
+            },
+            "xp": {
+                "min": 2579,
+                "max": 2937
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:45% - 65%",
+            "Critical Hit:45% - 65%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14097",
+                "itemName": "Granny Jezes Jumper"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "781",
+                "realmName": "Hai Jing Mountains (Slope)"
+            },
+            {
+                "realmId": "806",
+                "realmName": "Gao Tain Lake (Grove)"
+            },
+            {
+                "realmId": "801",
+                "realmName": "Fire Temple (Gate)"
+            },
+            {
+                "realmId": "821",
+                "realmName": "Hirosue Caverns (Cathedral)"
+            },
+            {
+                "realmId": "759",
+                "realmName": "Shroud Rim (Hunger Fields)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3771,
+        "creatureImg": "https://cdn.fallensword.com/creatures/37715afe80bd60f1a847775f7bd4f4a1daa2.png",
+        "creatureName": "Rhizome Biscuit Boy (Xmas Titan)",
+        "description": "Rhizome Biscuit Boy is a vast golem made out of gingerbread! Exactly where he came from, no one knows, but he turned nasty when someone spilled warm milk down him. The God of Vengeance noticed this and decided that he really needed to be bigger! Rhizome because a rage filled confection, intent on destroying all dairy farms!",
+        "statistics": {
+            "class": "Golem",
+            "level": 1200,
+            "attack": {
+                "min": 83793,
+                "max": 83897
+            },
+            "defense": {
+                "min": 861,
+                "max": 1059
+            },
+            "armor": {
+                "min": 887,
+                "max": 1033
+            },
+            "damage": {
+                "min": 47825,
+                "max": 47907
+            },
+            "hp": {
+                "min": 22724,
+                "max": 23356
+            },
+            "gold": {
+                "min": 291,
+                "max": 309
+            },
+            "xp": {
+                "min": 7158,
+                "max": 7292
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:35% - 55%",
+            "Critical Hit:35% - 55%",
+            "First Strike:50% - 70%",
+            "Hypnotize:50% - 70%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14098",
+                "itemName": "Rhizomes Biscuity Necklace"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1730",
+                "realmName": "Thangall Forest (Glade)"
+            },
+            {
+                "realmId": "1738",
+                "realmName": "Atrum Graveyard (Desecrated Plots)"
+            },
+            {
+                "realmId": "1743",
+                "realmName": "Zendell Keep (Courtyard)"
+            },
+            {
+                "realmId": "1749",
+                "realmName": "Zendell Keep (Audience Chamber)"
+            },
+            {
+                "realmId": "1777",
+                "realmName": "Dyseki Town (Suburbs)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 3772,
+        "creatureImg": "https://cdn.fallensword.com/creatures/3772097632574e5b14d95ad0d9ab9bc7c122.png",
+        "creatureName": "Mirka the Abominable (Xmas Titan)",
+        "description": "Mirka the Abominable was a timid mountain man for a long time. Keeping to himself and he was content. What fel magic he must have wandering into is unknown but he's turned into a gigantic, shaggy mountain monster! A titanic engine of destruction!",
+        "statistics": {
+            "class": "Beast",
+            "level": 2000,
+            "attack": {
+                "min": 35476,
+                "max": 35598
+            },
+            "defense": {
+                "min": 57289,
+                "max": 57447
+            },
+            "armor": {
+                "min": 56941,
+                "max": 57063
+            },
+            "damage": {
+                "min": 29995,
+                "max": 30187
+            },
+            "hp": {
+                "min": 251747,
+                "max": 252253
+            },
+            "gold": {
+                "min": 299,
+                "max": 301
+            },
+            "xp": {
+                "min": 49817,
+                "max": 55131
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:75% - 100%",
+            "Breaker:25% - 50%",
+            "Nullify:75% - 100%",
+            "Dodge:75% - 100%",
+            "Disarm:75% - 100%",
+            "Soulless:75% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14099",
+                "itemName": "Mirkas Abominable Boots"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2746",
+                "realmName": "Maccha Town (Outskirts)"
+            },
+            {
+                "realmId": "2764",
+                "realmName": "Tharhe Savannah (Flats)"
+            },
+            {
+                "realmId": "2779",
+                "realmName": "Reecha Barrens (Edge)"
+            },
+            {
+                "realmId": "2785",
+                "realmName": "Relcnoir Caves (Tunnels)"
+            },
+            {
+                "realmId": "2753",
+                "realmName": "Thosha Castle (Armory)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4053,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4053ec65fdef973cd290545dee189e280e8c.png",
+        "creatureName": "Gargantuan Clamper Wurm (Titan)",
+        "description": "The Gargantuan Clamper Wurm is a new form of burrowing, predatory wurm. This time however, they have grown to gargantuan size! They hunt by burrowing under the ground before erupting out of the ground before their prey, opening their cavernous jaws and shooting out muscular tentacles to entrap their prey before dragging them to a horrifying fate in the Clampers jaws!Luckily, they are hemmed in on all sizes by mountains, possibly the only reason they have not rampaged across the Realms! The Warriors of the Realms are invited to thin these monsters down!",
+        "statistics": {
+            "class": "Beast",
+            "level": 450,
+            "attack": {
+                "min": 12380,
+                "max": 12550
+            },
+            "defense": {
+                "min": 81,
+                "max": 189
+            },
+            "armor": {
+                "min": 57,
+                "max": 213
+            },
+            "damage": {
+                "min": 6123,
+                "max": 6195
+            },
+            "hp": {
+                "min": 2589,
+                "max": 2841
+            },
+            "gold": {
+                "min": 248,
+                "max": 352
+            },
+            "xp": {
+                "min": 1765,
+                "max": 1845
+            }
+        },
+        "enhancements": [
+            "Critical Hit:25% - 55%",
+            "First Strike:60% - 80%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14400",
+                "itemName": "Clamper Beak Signet"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3521",
+                "realmName": "The Virtue Desert"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4054,
+        "creatureImg": "https://cdn.fallensword.com/creatures/405415d8186d1a6e94100848abe9b009b2f8.png",
+        "creatureName": "Tyrannicus Nox (Titan)",
+        "description": "Tyrannicus Nox is a weird creature. No one knows where it came from though more learned scholars believe this to be the work of Doctor Morbidstein. The good Doctor himself is curious about this obviously sorcerous creation, though he does not feel there is likely anything he could learn from it. Thusly, the vile beast has been left in the Realms waterways, terrifying and devouring anyone it comes across.",
+        "statistics": {
+            "class": "Aquatic",
+            "level": 1400,
+            "attack": {
+                "min": 8248,
+                "max": 8308
+            },
+            "defense": {
+                "min": 14831,
+                "max": 15023
+            },
+            "armor": {
+                "min": 14966,
+                "max": 15136
+            },
+            "damage": {
+                "min": 9101,
+                "max": 9183
+            },
+            "hp": {
+                "min": 56580,
+                "max": 57180
+            },
+            "gold": {
+                "min": 258,
+                "max": 342
+            },
+            "xp": {
+                "min": 14391,
+                "max": 14989
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:30% - 50%",
+            "Dodge:30% - 50%",
+            "Disarm:30% - 50%",
+            "Hypnotize:30% - 50%",
+            "Soulless:30% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14401",
+                "itemName": "Tyrannicus Infested Amulet"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3522",
+                "realmName": "The Han Valley"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4115,
+        "creatureImg": "https://cdn.fallensword.com/creatures/41157b838995dcf5ca3f65948d0282e8918a.png",
+        "creatureName": "The Invisible Invader (Titan)",
+        "description": "The Invisible Invader is a demonic being of gargantuan size and power. It has another ability too. It can make itself invisible at will! The vast monstrosity uses this ability to fox and hamper those do-gooders who would hunt it and stop it from following the will of the Shadow Lord.",
+        "statistics": {
+            "class": "Demon",
+            "level": 650,
+            "attack": {
+                "min": 36452,
+                "max": 36544
+            },
+            "defense": {
+                "min": 350,
+                "max": 494
+            },
+            "armor": {
+                "min": 337,
+                "max": 507
+            },
+            "damage": {
+                "min": 21429,
+                "max": 21507
+            },
+            "hp": {
+                "min": 8242,
+                "max": 8658
+            },
+            "gold": {
+                "min": 289,
+                "max": 311
+            },
+            "xp": {
+                "min": 3750,
+                "max": 4100
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:40% - 50%",
+            "Breaker:40% - 50%",
+            "First Strike:40% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14424",
+                "itemName": "Invader Greaves"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "951",
+                "realmName": "Eohlar (West)"
+            },
+            {
+                "realmId": "965",
+                "realmName": "Caliginous Forests (Edge)"
+            },
+            {
+                "realmId": "962",
+                "realmName": "The Fire Forest (Valley)"
+            },
+            {
+                "realmId": "958",
+                "realmName": "Elrill Dungeon (Outer)"
+            },
+            {
+                "realmId": "954",
+                "realmName": "Audinar Depths (Lost Labyrinth)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4205,
+        "creatureImg": "https://cdn.fallensword.com/creatures/42050540bc1b50d0d62e20a5ffcd780190af.png",
+        "creatureName": "Colossal Snowman (Xmas Titan)",
+        "description": "The cold weather, large amounts on snow and malicious magic of Santork has resulted in the formation of the Colossal Snowman, a vast magical elemental! This construct has been created for one purpose, to ruin Yule Time! He moves slowly but the base of the snowman is akin to an avalanche!Where Santork got a giant carrot from is anyone's guess.",
+        "statistics": {
+            "class": "Magical",
+            "level": 1750,
+            "attack": {
+                "min": 79164,
+                "max": 79228
+            },
+            "defense": {
+                "min": 1504,
+                "max": 1556
+            },
+            "armor": {
+                "min": 1467,
+                "max": 1593
+            },
+            "damage": {
+                "min": 130652,
+                "max": 130788
+            },
+            "hp": {
+                "min": 42550,
+                "max": 43130
+            },
+            "gold": {
+                "min": 197,
+                "max": 203
+            },
+            "xp": {
+                "min": 36791,
+                "max": 39027
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "First Strike:100% - 100%",
+            "Hypnotize:30% - 50%",
+            "Soulless:30% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14456",
+                "itemName": "Colossal Glittering Snowball"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2473",
+                "realmName": "Hyrom Glacier (Fiends Lair)"
+            },
+            {
+                "realmId": "2471",
+                "realmName": "Hyrom Forest (Giants Arena)"
+            },
+            {
+                "realmId": "2457",
+                "realmName": "Indormar City (Center)"
+            },
+            {
+                "realmId": "2487",
+                "realmName": "Gelorath Caverns (Depths)"
+            },
+            {
+                "realmId": "2493",
+                "realmName": "Gelorath Caverns (Beetle Nest)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4206,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4206a86d9e19a6c48c5b689cb1913391b492.png",
+        "creatureName": "Jolakott (Xmas Titan)",
+        "description": "Jolakott is a titanic tabby cat that prowls the Forest of Yule. He belongs to the giant Ogress Granny Jeze and with her hatred of the Yule Time instilled into him, Jolakott is stalking the forests in search of any and all revellers to messily devour!",
+        "statistics": {
+            "class": "Feline",
+            "level": 2300,
+            "attack": {
+                "min": 87756,
+                "max": 87892
+            },
+            "defense": {
+                "min": 1975,
+                "max": 2165
+            },
+            "armor": {
+                "min": 2030,
+                "max": 2110
+            },
+            "damage": {
+                "min": 196127,
+                "max": 196233
+            },
+            "hp": {
+                "min": 57801,
+                "max": 58119
+            },
+            "gold": {
+                "min": 259,
+                "max": 341
+            },
+            "xp": {
+                "min": 69377,
+                "max": 69427
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:80% - 100%",
+            "Critical Hit:80% - 100%",
+            "Breaker:30% - 50%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14457",
+                "itemName": "Flashing Catseye Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3103",
+                "realmName": "Kiefur Forest (Edge)"
+            },
+            {
+                "realmId": "3110",
+                "realmName": "Pixluir (Overgrowth)"
+            },
+            {
+                "realmId": "3118",
+                "realmName": "Naal Plains (Pasture)"
+            },
+            {
+                "realmId": "3089",
+                "realmName": "Validir Forest (Overgrowth)"
+            },
+            {
+                "realmId": "3082",
+                "realmName": "Validir Forest (Outskirts)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4389,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4389ebd91a562b92733a6459d9a7387ce7bc.png",
+        "creatureName": "Prodigious Pullus (STF Titan)",
+        "description": "From the depths of the Springtime Forest, the demonic Prodigious Pullus looms! This vast Springtime Chick is a monster born of darkness! The purple flame of the Shadow Lord's minions flows off the gigantic, adorably fluffy feathers of this huge demonic chick!",
+        "statistics": {
+            "class": "Avian",
+            "level": 90,
+            "attack": {
+                "min": 5036,
+                "max": 5126
+            },
+            "defense": {
+                "min": 24,
+                "max": 192
+            },
+            "armor": {
+                "min": 13,
+                "max": 203
+            },
+            "damage": {
+                "min": 9772,
+                "max": 9922
+            },
+            "hp": {
+                "min": 2075,
+                "max": 2277
+            },
+            "gold": {
+                "min": 32,
+                "max": 148
+            },
+            "xp": {
+                "min": 2200,
+                "max": 2500
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 40%",
+            "Thievery:30% - 40%",
+            "First Strike:25% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14529",
+                "itemName": "Prodigious Pullus Egg"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "149",
+                "realmName": "Savage Ruins (North)"
+            },
+            {
+                "realmId": "148",
+                "realmName": "Pennalor Swamps (North)"
+            },
+            {
+                "realmId": "155",
+                "realmName": "Swamp Mountains (South)"
+            },
+            {
+                "realmId": "135",
+                "realmName": "Depths of Despair (Level 4)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4555,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4555a9e805c7b4d35babc3d178a23515881e.png",
+        "creatureName": "The Glob (Titan)",
+        "description": "The Glob is a vast, amorphous blob of goo that slops and slurps across the Realms, absorbing any and all fleshy lifeforms it rolls over. Where it came from, no one knows though some learned mages believe it is not of this plane!",
+        "statistics": {
+            "class": "Magical",
+            "level": 2600,
+            "attack": {
+                "min": 41792,
+                "max": 41918
+            },
+            "defense": {
+                "min": 533,
+                "max": 611
+            },
+            "armor": {
+                "min": 534,
+                "max": 610
+            },
+            "damage": {
+                "min": 36623,
+                "max": 36761
+            },
+            "hp": {
+                "min": 15736,
+                "max": 16324
+            },
+            "gold": {
+                "min": 288,
+                "max": 312
+            },
+            "xp": {
+                "min": 5883,
+                "max": 6789
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14744",
+                "itemName": "Glob Encrusted Shield"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3431",
+                "realmName": "Ganaroth Desert (Shamble)"
+            },
+            {
+                "realmId": "3423",
+                "realmName": "Ganaroth Canyon (Poisonous Paths)"
+            },
+            {
+                "realmId": "3415",
+                "realmName": "Xaintor Jungle (Quarry)"
+            },
+            {
+                "realmId": "3406",
+                "realmName": "Xaintor Jungle (Prey)"
+            },
+            {
+                "realmId": "3396",
+                "realmName": "Xaintor Village (Death Fields)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4612,
+        "creatureImg": "https://cdn.fallensword.com/creatures/461222c11d04e7381de93f8a5f230073dae9.png",
+        "creatureName": "The Hunted Cow (Titan)",
+        "description": "The Hunted Cow was once a sweet, gentle blue and white bovine, happily eating grass and just living a simple life. For some unknown reason, this enraged the Shadow Lord who, in a fit of anger, transformed the poor creature. Now, fuelled by the dark power of the Shroud, the Hunted Cow is a rampaging giant blue and white minotaur, laying waste to all in the Realms!",
+        "statistics": {
+            "class": "Beast",
+            "level": 50,
+            "attack": {
+                "min": 2252,
+                "max": 2408
+            },
+            "defense": {
+                "min": 1,
+                "max": 98
+            },
+            "armor": {
+                "min": 1,
+                "max": 130
+            },
+            "damage": {
+                "min": 2051,
+                "max": 2205
+            },
+            "hp": {
+                "min": 457,
+                "max": 843
+            },
+            "gold": {
+                "min": 37,
+                "max": 63
+            },
+            "xp": {
+                "min": 227,
+                "max": 263
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Reinforced Armor:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "First Strike:30% - 50%",
+            "Hypnotize:30% - 50%",
+            "Soulless:30% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14758",
+                "itemName": "Pail Of The Hunted Cows Milk"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "113",
+                "realmName": "Feidal Swamps East"
+            },
+            {
+                "realmId": "1298",
+                "realmName": "Plague Mists West"
+            },
+            {
+                "realmId": "86",
+                "realmName": "Klar Labyrinth (Level 1)"
+            },
+            {
+                "realmId": "63",
+                "realmName": "Celestial Forest (North)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4614,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4614e3eaae3a7569bbbf7b5591bbcae1a8eb.png",
+        "creatureName": "Wyld Mari (Xmas Titan)",
+        "description": "Wyld Mari is a vast zombie horse. This monstrosity wanders the Realms trying to get into the larger cities by asking strange and twisted riddles in a battle of the wits!",
+        "statistics": {
+            "class": "Undead",
+            "level": 2900,
+            "attack": {
+                "min": 30459,
+                "max": 30583
+            },
+            "defense": {
+                "min": 2555,
+                "max": 2665
+            },
+            "armor": {
+                "min": 211034,
+                "max": 211196
+            },
+            "damage": {
+                "min": 16700,
+                "max": 16806
+            },
+            "hp": {
+                "min": 365286,
+                "max": 365514
+            },
+            "gold": {
+                "min": 292,
+                "max": 308
+            },
+            "xp": {
+                "min": 104112,
+                "max": 116576
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14783",
+                "itemName": "Boots of Wyld Mari"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3748",
+                "realmName": "Multuubo Savannah (Plains)"
+            },
+            {
+                "realmId": "3739",
+                "realmName": "Kelran Grasslands (Nest)"
+            },
+            {
+                "realmId": "3731",
+                "realmName": "Grefflian Keep (Gallows)"
+            },
+            {
+                "realmId": "3723",
+                "realmName": "Grefflian Keep (Servant Quarters)"
+            },
+            {
+                "realmId": "3715",
+                "realmName": "Grefflian Bone Wastes (Horror)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4675,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4675e7e81c1932f0cb3c643efad7fd8d67b1.png",
+        "creatureName": "Tith Ausos (Titan)",
+        "description": "In the great wars against the Shadowlord in ages past the Elves created great war avatars, each piloted by the spirit of a great hero who was ready to sacrifice themselves to one for the greater good of their people. After the war the surviving avatars returned to their lands where they sleep in secret places. However some like Tith Ausos are unaccounted for, feared to have fallen to dark powers and rampage still...",
+        "statistics": {
+            "class": "Magical",
+            "level": 350,
+            "attack": {
+                "min": 2051,
+                "max": 2167
+            },
+            "defense": {
+                "min": 3239,
+                "max": 3299
+            },
+            "armor": {
+                "min": 3161,
+                "max": 3281
+            },
+            "damage": {
+                "min": 1932,
+                "max": 2014
+            },
+            "hp": {
+                "min": 10369,
+                "max": 10781
+            },
+            "gold": {
+                "min": 273,
+                "max": 327
+            },
+            "xp": {
+                "min": 1400,
+                "max": 1410
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 40%",
+            "Critical Hit:20% - 40%",
+            "First Strike:20% - 40%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "13412",
+                "itemName": "Tith Ausos Shield"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "466",
+                "realmName": "Glitter Vein Mine"
+            },
+            {
+                "realmId": "477",
+                "realmName": "Underground Passages (Outer)"
+            },
+            {
+                "realmId": "476",
+                "realmName": "Great Plains (South)"
+            },
+            {
+                "realmId": "481",
+                "realmName": "Burning Sands (South)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4738,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4738f9d618a2d5cc38cb7a271d0d7540dcc5.png",
+        "creatureName": "Skeletal Horror (STF Titan)",
+        "description": "Around Springtime, a new horror is making it's presence known.This immense skeletal rabbit is hopping around, shedding chunks of it's rotting body around the realms, spreading disease and plague. This horrible creature must be destroyed!",
+        "statistics": {
+            "class": "Undead",
+            "level": 400,
+            "attack": {
+                "min": 8626,
+                "max": 8798
+            },
+            "defense": {
+                "min": 14445,
+                "max": 14587
+            },
+            "armor": {
+                "min": 15333,
+                "max": 15431
+            },
+            "damage": {
+                "min": 9432,
+                "max": 9502
+            },
+            "hp": {
+                "min": 47736,
+                "max": 48424
+            },
+            "gold": {
+                "min": 184,
+                "max": 416
+            },
+            "xp": {
+                "min": 9837,
+                "max": 10363
+            }
+        },
+        "enhancements": [
+            "Reinforced Armor:30% - 50%",
+            "Nullify:30% - 50%",
+            "Disarm:15% - 35%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14889",
+                "itemName": "Cuirass of the Horror Rabbit"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "563",
+                "realmName": "Citadel of Xinderoth (Floor 20)"
+            },
+            {
+                "realmId": "546",
+                "realmName": "Citadel of Xinderoth (Floor 14)"
+            },
+            {
+                "realmId": "532",
+                "realmName": "City of Xinderoth"
+            },
+            {
+                "realmId": "525",
+                "realmName": "Fractured Foundations"
+            },
+            {
+                "realmId": "509",
+                "realmName": "Broken Fang Clan Lands"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 4954,
+        "creatureImg": "https://cdn.fallensword.com/creatures/4954a56d897d203f0e20fff4e4c755e57451.png",
+        "creatureName": "The Chodrcane (Titan)",
+        "description": "Fuvayu has noticed a swelling of power of late and it's fuelled his spitefulness to new heights! As such, he's taken himself over various reefs and sucked up whole tribes of Chodrmen and has starting throwing these maddened Chodrmen across the Realms! He is now a Chodrcane!",
+        "statistics": {
+            "class": "Magical",
+            "level": 75,
+            "attack": {
+                "min": 5972,
+                "max": 6148
+            },
+            "defense": {
+                "min": 26,
+                "max": 200
+            },
+            "armor": {
+                "min": 55,
+                "max": 171
+            },
+            "damage": {
+                "min": 9464,
+                "max": 9628
+            },
+            "hp": {
+                "min": 2042,
+                "max": 2508
+            },
+            "gold": {
+                "min": 170,
+                "max": 180
+            },
+            "xp": {
+                "min": 750,
+                "max": 866
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 40%",
+            "Critical Hit:30% - 40%",
+            "First Strike:30% - 40%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "14992",
+                "itemName": "Chodrcane Core"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2121",
+                "realmName": "Inferno Mountains Warren"
+            },
+            {
+                "realmId": "112",
+                "realmName": "Feidal Swamps North"
+            },
+            {
+                "realmId": "1299",
+                "realmName": "Plague Mists Coast"
+            },
+            {
+                "realmId": "81",
+                "realmName": "Altar Forest West"
+            },
+            {
+                "realmId": "73",
+                "realmName": "Moot Forest North"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 5159,
+        "creatureImg": "https://cdn.fallensword.com/creatures/515974ae6e392c9b4cd94a2cdf00319f215c.png",
+        "creatureName": "Gospa Perchta (Xmas Titan)",
+        "description": "Gospa Perchta is an ancient old witch who tends to the forests all year round, only dealing with humans at Yuletide. It used to be that during Yuletide, she would reward the virtuous and the good with gifts and blessings while the wicked would have their guts removed and replaced with rocks and trash. The Shroud has infected her however and now, she only sees evil in those around her! She must be stopped!",
+        "statistics": {
+            "class": "Magical",
+            "level": 225,
+            "attack": {
+                "min": 24466,
+                "max": 24540
+            },
+            "defense": {
+                "min": 260,
+                "max": 422
+            },
+            "armor": {
+                "min": 291,
+                "max": 391
+            },
+            "damage": {
+                "min": 22217,
+                "max": 22413
+            },
+            "hp": {
+                "min": 6715,
+                "max": 6935
+            },
+            "gold": {
+                "min": 292,
+                "max": 308
+            },
+            "xp": {
+                "min": 2962,
+                "max": 3388
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:20% - 30%",
+            "Critical Hit:20% - 30%",
+            "First Strike:30% - 40%",
+            "Hypnotize:30% - 40%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15075",
+                "itemName": "Perchtas Gift Sack"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "4475",
+                "realmName": "Forest of Yule (Depths)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 5191,
+        "creatureImg": "https://cdn.fallensword.com/creatures/5191d080c8e89b60b58d32190e019a0bedec.png",
+        "creatureName": "The Choco Glob (STF Titan)",
+        "description": "A famous chocolatier once snubbed a powerful mage. This mage, outraged at such treatment, cast an unusual and highly powerful spell, granting the high quality chocolate anima. The first act of the ensorcelled chocolate was to absorb the doomed chocolatier, adding his tortured soul to its own. Now, it is dragging its deliciously dangerous form through the streets, looking for more sweet tooths victims.",
+        "statistics": {
+            "class": "Magical",
+            "level": 800,
+            "attack": {
+                "min": 84141,
+                "max": 84313
+            },
+            "defense": {
+                "min": 810,
+                "max": 950
+            },
+            "armor": {
+                "min": 807,
+                "max": 953
+            },
+            "damage": {
+                "min": 36451,
+                "max": 36565
+            },
+            "hp": {
+                "min": 20808,
+                "max": 21432
+            },
+            "gold": {
+                "min": 233,
+                "max": 367
+            },
+            "xp": {
+                "min": 6472,
+                "max": 6778
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:30% - 50%",
+            "Critical Hit:30% - 50%",
+            "First Strike:30% - 50%",
+            "Soulless:30% - 50%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15170",
+                "itemName": "Choco Glob Coin Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1146",
+                "realmName": "Forest of Abroia (Highland)"
+            },
+            {
+                "realmId": "1134",
+                "realmName": "Dimcriee Swamps (Mire)"
+            },
+            {
+                "realmId": "1125",
+                "realmName": "Tormented Recess (Depths)"
+            },
+            {
+                "realmId": "1119",
+                "realmName": "Caugha Abyss (Plateau)"
+            },
+            {
+                "realmId": "1109",
+                "realmName": "Osslandira Canyon (Plateau)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 5448,
+        "creatureImg": "https://cdn.fallensword.com/creatures/54483b3332e25532887ffda45b8ff3063111.png",
+        "creatureName": "Steamforged Gorgeanaka (Titan)",
+        "description": "After the rise of Gorgeanaka due to reckless use of magic power, other wizards and engineers have put their differences aside and worked to come up with a new machine, powered by steam furnaces and magical lodes stones. This came to a head with the construction of the mighty Steamforged Gorgeanaka!Now, after Gorgeanaka went on the rampage after his creation, one would assume the wizards and engineers would add a failsafe to prevent their new monstrosity from doing the same. Unfortunately, this did not occur and, predictably, Steamforged Gorgeanaka has broken free of their control and gone on the rampage himself!",
+        "statistics": {
+            "class": "Mechanical",
+            "level": 3500,
+            "attack": {
+                "min": 16284,
+                "max": 16436
+            },
+            "defense": {
+                "min": 26956,
+                "max": 27016
+            },
+            "armor": {
+                "min": 26861,
+                "max": 27005
+            },
+            "damage": {
+                "min": 15526,
+                "max": 15614
+            },
+            "hp": {
+                "min": 119972,
+                "max": 120408
+            },
+            "gold": {
+                "min": 238,
+                "max": 362
+            },
+            "xp": {
+                "min": 13333,
+                "max": 15179
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15270",
+                "itemName": "Lode Stone of Steamforged Gorgeanaka"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "4366",
+                "realmName": "Mangarian Wastes (Prowl)"
+            },
+            {
+                "realmId": "4261",
+                "realmName": "Haragorth Graveyard (Desolation)"
+            },
+            {
+                "realmId": "4006",
+                "realmName": "Talaras Town (Gate)"
+            },
+            {
+                "realmId": "4128",
+                "realmName": "Zorgoth Surf (Prey)"
+            },
+            {
+                "realmId": "4296",
+                "realmName": "Goroloth Dungeon (Depths)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 5621,
+        "creatureImg": "https://cdn.fallensword.com/creatures/5621007e40cf199d28508893880a16f51dbc.png",
+        "creatureName": "The Exalted Crank (Xmas Titan)",
+        "description": "With his plans thwarted, the hatred in the Crank's heart has exploded, granting power and size enough to crush those who defy him!",
+        "statistics": {
+            "class": "Demon",
+            "level": 3900,
+            "attack": {
+                "min": 265346,
+                "max": 265530
+            },
+            "defense": {
+                "min": 3613,
+                "max": 3767
+            },
+            "armor": {
+                "min": 3652,
+                "max": 3728
+            },
+            "damage": {
+                "min": 240789,
+                "max": 240871
+            },
+            "hp": {
+                "min": 103174,
+                "max": 103466
+            },
+            "gold": {
+                "min": 278,
+                "max": 322
+            },
+            "xp": {
+                "min": 212639,
+                "max": 228517
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15334",
+                "itemName": "Cranks Shrivelled Heart"
+            },
+            {
+                "itemId": "15328",
+                "itemName": "Sturdy Candy Cane"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "4895",
+                "realmName": "Forest of Yule (Whyville)"
+            }
+        ],
+        "additionalNotes": "Requires item: Sturdy Candy Cane"
+    },
+    {
+        "creatureId": 5688,
+        "creatureImg": "https://cdn.fallensword.com/creatures/56882b91790d66a523711de1d6c5ec5c8c2f.png",
+        "creatureName": "Abominable Springtime Lamb (STF Titan)",
+        "description": "An adorable wee lamb was frolicking in his field, enjoying life, when an evil (and bad tempered) wizard wandered past. Seeing such happiness, he drew vast power into himself and and poured the dark power into the lamb. The vile power made the lamb swell into titanic proportions and it's agonised mind made the poor creature turn and destroy all around it. The abominable springtime lamb now appears at this time of year bringing death and destruction to all in it's path.",
+        "statistics": {
+            "class": "Beast",
+            "level": 1300,
+            "attack": {
+                "min": 23700,
+                "max": 23876
+            },
+            "defense": {
+                "min": 413,
+                "max": 601
+            },
+            "armor": {
+                "min": 452,
+                "max": 562
+            },
+            "damage": {
+                "min": 45699,
+                "max": 45845
+            },
+            "hp": {
+                "min": 11903,
+                "max": 12433
+            },
+            "gold": {
+                "min": 294,
+                "max": 306
+            },
+            "xp": {
+                "min": 15831,
+                "max": 17897
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:55% - 75%",
+            "Critical Hit:55% - 75%",
+            "First Strike:80% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15393",
+                "itemName": "Abominable Springtime Shield"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "1941",
+                "realmName": "Grogkhiem (Lower Sewer)"
+            },
+            {
+                "realmId": "1896",
+                "realmName": "Mattix Sands (Drift)"
+            },
+            {
+                "realmId": "1914",
+                "realmName": "Dungeon of Kai (Catacombs)"
+            },
+            {
+                "realmId": "1918",
+                "realmName": "Dungeon of Kai (Black Vaults)"
+            },
+            {
+                "realmId": "1927",
+                "realmName": "Ogzog Forest (Wild)"
+            },
+            {
+                "realmId": "1936",
+                "realmName": "Grogkhiem (Southern District)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 6098,
+        "creatureImg": "https://cdn.fallensword.com/creatures/60985c159cbaa64d6d604150cf02586e7bb0.png",
+        "creatureName": "Flayed Colossus (Titan)",
+        "description": "An explosion of blood mist heralds the arrival of the Flayed Colossus. No one knows where this mysterious undead construct came from but when it appears, none are safe. Even those hiding behind stout walls have no respite as the Colossus brings it's vast axe down on such fortifications, sundering them utterly.",
+        "statistics": {
+            "class": "Undead",
+            "level": 4100,
+            "attack": {
+                "min": 71771,
+                "max": 71965
+            },
+            "defense": {
+                "min": 116059,
+                "max": 116205
+            },
+            "armor": {
+                "min": 115830,
+                "max": 115888
+            },
+            "damage": {
+                "min": 74074,
+                "max": 74204
+            },
+            "hp": {
+                "min": 528970,
+                "max": 529430
+            },
+            "gold": {
+                "min": 238,
+                "max": 362
+            },
+            "xp": {
+                "min": 224536,
+                "max": 238404
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15470",
+                "itemName": "Flayed Colossal Axe"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5006",
+                "realmName": "Manaroc Castle (Crypt)"
+            },
+            {
+                "realmId": "4933",
+                "realmName": "Yanrish Caves (Sludge)"
+            },
+            {
+                "realmId": "4792",
+                "realmName": "Manthalion Forest (Barrow)"
+            },
+            {
+                "realmId": "4687",
+                "realmName": "Rellanath Desert (Opening)"
+            },
+            {
+                "realmId": "4587",
+                "realmName": "Kenathog Town (Center)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 6491,
+        "creatureImg": "https://cdn.fallensword.com/creatures/64915708891e3ee739765ce5c085ad09bef1.png",
+        "creatureName": "Mega Flamedeer (Xmas Titan)",
+        "description": "A marauding, mechanical, monstrosity, the Mega Flamedeer is Santork's greatest creation in his attempts to scour the Forest of Yule of life. The final work was completed and unholy life breathed into the Mega Flamedeer. Now, this technological terror is out in the Forest of Yule and must be destroyed before it attempts to complete its mission.",
+        "statistics": {
+            "class": "Mechanical",
+            "level": 4500,
+            "attack": {
+                "min": 95939,
+                "max": 95999
+            },
+            "defense": {
+                "min": 95692,
+                "max": 95814
+            },
+            "armor": {
+                "min": 97031,
+                "max": 97109
+            },
+            "damage": {
+                "min": 125112,
+                "max": 125302
+            },
+            "hp": {
+                "min": 579365,
+                "max": 579835
+            },
+            "gold": {
+                "min": 289,
+                "max": 311
+            },
+            "xp": {
+                "min": 265560,
+                "max": 289770
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15699",
+                "itemName": "Greater Flamedeer Antlers"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5668",
+                "realmName": "Forest of Yule (Frostglint Grove)"
+            },
+            {
+                "realmId": "5669",
+                "realmName": "Forest of Yule (Frostglint Copse)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 6830,
+        "creatureImg": "https://cdn.fallensword.com/creatures/6830e33e6ecd44fc479e061b59b8cf2fdc49.png",
+        "creatureName": "Boogle Woogle (Titan)",
+        "description": "This vast creature is made out of colourful sackcloth and is filled with insects ooz and beasties suffused with evil energies. Some say Boogle was created by a bonkers wizard who tried to drain evil from the world into a receptacle. Why this choice of receptacle is anyone's guess. As it is, the cloth took form as it absorbed evil and become aware. Before the wizard knew it, Boogle had gained a malevolent intellect and he became the monsters first victim!",
+        "statistics": {
+            "class": "Magical",
+            "level": 4000,
+            "attack": {
+                "min": 220850,
+                "max": 221010
+            },
+            "defense": {
+                "min": 3618,
+                "max": 3762
+            },
+            "armor": {
+                "min": 3624,
+                "max": 3756
+            },
+            "damage": {
+                "min": 285276,
+                "max": 285398
+            },
+            "hp": {
+                "min": 103219,
+                "max": 103421
+            },
+            "gold": {
+                "min": 243,
+                "max": 357
+            },
+            "xp": {
+                "min": 216893,
+                "max": 224263
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15871",
+                "itemName": "Boogle's Tattered Remains"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5990",
+                "realmName": "Roots of the Spook Tree"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 6843,
+        "creatureImg": "https://cdn.fallensword.com/creatures/6843c5e5c4f2e976b3bc281ac36c9e1eb463.png",
+        "creatureName": "The Snorra Trolls (Xmas Titan)",
+        "description": "The Snorra Trolls are two lazy and repulsive giants that wander the world looking to devour disobedient children -- though any child will do!",
+        "statistics": {
+            "class": "Magical",
+            "level": 4750,
+            "attack": {
+                "min": 51871,
+                "max": 52035
+            },
+            "defense": {
+                "min": 2632,
+                "max": 2690
+            },
+            "armor": {
+                "min": 1040,
+                "max": 1138
+            },
+            "damage": {
+                "min": 53164,
+                "max": 53324
+            },
+            "hp": {
+                "min": 152294,
+                "max": 152766
+            },
+            "gold": {
+                "min": 234,
+                "max": 366
+            },
+            "xp": {
+                "min": 22742,
+                "max": 23192
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15935",
+                "itemName": "Snorra Amulet"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5697",
+                "realmName": "Tarillian Forest (Hunt)"
+            },
+            {
+                "realmId": "5629",
+                "realmName": "Callanastia Swamp (Slither)"
+            },
+            {
+                "realmId": "5544",
+                "realmName": "Oolathat Caverns (Slither)"
+            },
+            {
+                "realmId": "5474",
+                "realmName": "Karanak Woods (Smolder)"
+            },
+            {
+                "realmId": "5399",
+                "realmName": "Garanok Mine (Depths)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 6967,
+        "creatureImg": "https://cdn.fallensword.com/creatures/6967c4ec9a704feb759a43c114a0b0cecae8.png",
+        "creatureName": "The Egg (STF Titan)",
+        "description": "It's a giant egg...",
+        "statistics": {
+            "class": "Magical",
+            "level": 4600,
+            "attack": {
+                "min": 193451,
+                "max": 193589
+            },
+            "defense": {
+                "min": 12193,
+                "max": 12333
+            },
+            "armor": {
+                "min": 4404,
+                "max": 4596
+            },
+            "damage": {
+                "min": 239664,
+                "max": 239768
+            },
+            "hp": {
+                "min": 629696,
+                "max": 630304
+            },
+            "gold": {
+                "min": 281,
+                "max": 319
+            },
+            "xp": {
+                "min": 314307,
+                "max": 341813
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "15986",
+                "itemName": "Egg Shell Armor"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5517",
+                "realmName": "Calanog Forest (Pride)"
+            },
+            {
+                "realmId": "5524",
+                "realmName": "Borogar Castle (Barracks)"
+            },
+            {
+                "realmId": "5533",
+                "realmName": "Terranoth Caves (Chill)"
+            },
+            {
+                "realmId": "5545",
+                "realmName": "Oolathat Caverns (Nest)"
+            },
+            {
+                "realmId": "5556",
+                "realmName": "Oolathat Caverns (Gas)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7057,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7057ebe5dadd433ab75974132aa3251c52ce.png",
+        "creatureName": "Iklilian of the First Brood (Titan)",
+        "description": "One of the first brood. Iklilian is the titanic sister of the Cosmic Spider Rosmeriat. Sent to deal with those who slaughter her lesser children, Iklilian looms over the realms like darkness beset by scintillating stars. Where her spiderlegs touch, reality shatters.",
+        "statistics": {
+            "class": "Magical",
+            "level": 2200,
+            "attack": {
+                "min": 144665,
+                "max": 144761
+            },
+            "defense": {
+                "min": 2007,
+                "max": 2133
+            },
+            "armor": {
+                "min": 2034,
+                "max": 2106
+            },
+            "damage": {
+                "min": 139239,
+                "max": 139343
+            },
+            "hp": {
+                "min": 57745,
+                "max": 58175
+            },
+            "gold": {
+                "min": 288,
+                "max": 312
+            },
+            "xp": {
+                "min": 68006,
+                "max": 70798
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:90% - 100%",
+            "Critical Hit:90% - 100%",
+            "Breaker:90% - 100%",
+            "Nullify:40% - 50%",
+            "First Strike:90% - 100%",
+            "Hypnotize:90% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16091",
+                "itemName": "Word of the Starweaver"
+            },
+            {
+                "itemId": "15864",
+                "itemName": "Void Ring"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "2979",
+                "realmName": "Souale Crystal Field (West)"
+            },
+            {
+                "realmId": "2990",
+                "realmName": "Forest of Ardyea (Ridge)"
+            },
+            {
+                "realmId": "2998",
+                "realmName": "Aleteer Forest (Descent)"
+            },
+            {
+                "realmId": "3009",
+                "realmName": "Sernath Fortress (Barracks)"
+            },
+            {
+                "realmId": "3021",
+                "realmName": "Sernath Mountains (Rise)"
+            },
+            {
+                "realmId": "3035",
+                "realmName": "Bosjnir Caves (North)"
+            }
+        ],
+        "additionalNotes": "Requires item: Void Ring"
+    },
+    {
+        "creatureId": 7062,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7062068861893c0465ad3208ec929c78aebb.png",
+        "creatureName": "The Nuckelavee (Titan)",
+        "description": "It is said that when three dead birds land ashore, the Nuckelavee is coming. Tall and grotesque, the Nuckelavee is an abomination that brings plagues and droughts to the kingdoms it has cursed.",
+        "statistics": {
+            "class": "Demon",
+            "level": 5000,
+            "attack": {
+                "min": 31239,
+                "max": 31439
+            },
+            "defense": {
+                "min": 2051,
+                "max": 2159
+            },
+            "armor": {
+                "min": 176642,
+                "max": 176788
+            },
+            "damage": {
+                "min": 269,
+                "max": 411
+            },
+            "hp": {
+                "min": 294466,
+                "max": 294934
+            },
+            "gold": {
+                "min": 290,
+                "max": 310
+            },
+            "xp": {
+                "min": 218701,
+                "max": 234967
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16117",
+                "itemName": "Sinew and Skull Shield"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "6006",
+                "realmName": "Kataran Forest (Nests)"
+            },
+            {
+                "realmId": "5988",
+                "realmName": "Haaneth City (Royal Barracks)"
+            },
+            {
+                "realmId": "5978",
+                "realmName": "Haaneth City (Walls)"
+            },
+            {
+                "realmId": "5969",
+                "realmName": "Pennuh Grasslands (Plains)"
+            },
+            {
+                "realmId": "5965",
+                "realmName": "Pennuh Grasslands (Crawl)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7143,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7143e10af564753e1bd9e8ef94261af6948f.png",
+        "creatureName": "The Roast Beast (Xmas Titan)",
+        "description": "From where this roasted monstrosity came is a mystery. What is known, however, is that it must be eaten before the Yuletide festivities come to an end.",
+        "statistics": {
+            "class": "Beast",
+            "level": 5100,
+            "attack": {
+                "min": 24462,
+                "max": 24562
+            },
+            "defense": {
+                "min": 162761,
+                "max": 162847
+            },
+            "armor": {
+                "min": 1899,
+                "max": 2083
+            },
+            "damage": {
+                "min": 9760,
+                "max": 9824
+            },
+            "hp": {
+                "min": 278563,
+                "max": 278917
+            },
+            "gold": {
+                "min": 298,
+                "max": 302
+            },
+            "xp": {
+                "min": 201709,
+                "max": 203815
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Thievery:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Master Thief:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16192",
+                "itemName": "Parson's Nose"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "6262",
+                "realmName": "Forest of Yule (Longspur Creek)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7284,
+        "creatureImg": "https://cdn.fallensword.com/creatures/72845a7151aa65ab761dcc9be9d2285b7a6f.png",
+        "creatureName": "Zurgol the Tiny (Titan)",
+        "description": "Zurgol was a runt among goblins. Cowardly in the extreme, he'd flee at the slightest hint of a fight. Most goblins are craven, sneaky bullies, so poor Zurgol was the target of all the clan bullies, i.e. the entire clan! Eventually, this was too much for him. He fled, hoping to find a place where he could live unafraid. He travelled and searched, but nowhere is truly hospitable to a feeble goblin. He gave up, thinking to go home but his travels had been frenzied and haphazard and he was lost. Dejected, his wanders brought him to an ancient, crumbling tower. Escaping from a sudden downpour, Zurgol explored the tower, not knowing it had once been the lair of a powerful mage. Finding no food, beyond the odd rat, he DID find a clear crystal bottle in a scuffed circle on the floor. With a shrug, he drank the clear liquid, thinking it water. A wave of unaccustomed power surged through his tiny body and then, to his shock, he started to grow! His frame expanded, swelling with power, though somewhat unevenly.  Though ungainly, Zurgol's new body is powerful and vast, with his tiny goblin head perched atop. He now bullies those smaller than he is, rampaging across the Realms. \n\nDesign: kingcap",
+        "statistics": {
+            "class": "Greenskin",
+            "level": 2700,
+            "attack": {
+                "min": 110967,
+                "max": 111113
+            },
+            "defense": {
+                "min": 4850,
+                "max": 4980
+            },
+            "armor": {
+                "min": 2425,
+                "max": 2615
+            },
+            "damage": {
+                "min": 133476,
+                "max": 133570
+            },
+            "hp": {
+                "min": 352464,
+                "max": 353136
+            },
+            "gold": {
+                "min": 222,
+                "max": 378
+            },
+            "xp": {
+                "min": 101487,
+                "max": 104241
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16208",
+                "itemName": "Goblin Flesh"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3498",
+                "realmName": "Golwoth Islands (Shallows)"
+            },
+            {
+                "realmId": "3506",
+                "realmName": "Golwoth Islands (Front)"
+            },
+            {
+                "realmId": "3519",
+                "realmName": "Lokat Plain (Haunt)"
+            },
+            {
+                "realmId": "3532",
+                "realmName": "Pellranor Forest (Hive)"
+            },
+            {
+                "realmId": "3542",
+                "realmName": "Kethnoir Wood (Shadow)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7285,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7285a7a8662bbebe62382ce6647d007a9cd5.png",
+        "creatureName": "Johari The Eyeless (Titan)",
+        "description": "Once a man of great ambition and drive, Johari, a blind man, wanted to become the greatest warrior-mage the world had ever seen. A man known to be kind and caring, but ruthless on the battlefield. He ventured far and wide in search of greatness. Johari slew any warrior or beast that ever dared cross his path.\n\nOne fateful evening while he rested before a great battle, the wizard he planned on facing the next morning concocted a dire curse and placed it upon Johari as he slept. The curse backfired, however.  Johari's body melded with the forest and mountain upon which he slept. When he awoke, instead of being imprisoned, Johari's implacable willpower flowed down the lines of magical power in a manner akin to a nervous system and with a roar of grinding rock, the mountain arose.  Johari was reborn, a vast golem made of the living rock of the mountains!\n\nDesign by: Revitalize",
+        "statistics": {
+            "class": "Golem",
+            "level": 3800,
+            "attack": {
+                "min": 41200,
+                "max": 41268
+            },
+            "defense": {
+                "min": 3466,
+                "max": 3554
+            },
+            "armor": {
+                "min": 283267,
+                "max": 283427
+            },
+            "damage": {
+                "min": 22845,
+                "max": 22969
+            },
+            "hp": {
+                "min": 491285,
+                "max": 491515
+            },
+            "gold": {
+                "min": 263,
+                "max": 337
+            },
+            "xp": {
+                "min": 196984,
+                "max": 202178
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16209",
+                "itemName": "Shard of Johari"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "4666",
+                "realmName": "Seldiri Canyons (Web)"
+            },
+            {
+                "realmId": "4677",
+                "realmName": "Rellanath (Skuttle)"
+            },
+            {
+                "realmId": "4682",
+                "realmName": "Rellanath (Pack)"
+            },
+            {
+                "realmId": "4690",
+                "realmName": "Vantaria Caves (Quarry)"
+            },
+            {
+                "realmId": "4696",
+                "realmName": "Vantaria Caves (Outskirt)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7286,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7286ee24c545002d621199cf8fc06acfc4b2.png",
+        "creatureName": "Doctor Morbidsteins Revenge (Titan)",
+        "description": "Unknown to his enemies, Doctor Morbidstein undertook the ultimate experiment - and operated on his own brain! The crazed genius believed he could double his power, by halving his mind! One half remained in his human body, the other, fused to a sorcerous copy of its missing hemisphere, was implanted into a gigantic hulk located beneath Castle Morbidstein. Fearing his Sons, aware of the twisted dimension and its imperfect copies, the good Doctor created a failsafe: that for as long as they lived, his other self would remain buried. But! In the event of his and their defeat, and after a waiting period to lull his enemies into a false sense of security, his gigantic alter ego would emerge from the ruins to terrorise his opponents and begin his experiments anew in a gigantic walking laboratory!Never resting, never staying still, this titan teleports across Erildath in search of new specimens, even as it drops new Morbidsteinian monstrosities in its foul wake. With the human Doctor long defeated, this colossus considers itself the once and future Doctor, the only true inheritor of the Morbidstein name!Design by: Belaric",
+        "statistics": {
+            "class": "Magical",
+            "level": 4250,
+            "attack": {
+                "min": 72562,
+                "max": 72672
+            },
+            "defense": {
+                "min": 121623,
+                "max": 121813
+            },
+            "armor": {
+                "min": 123596,
+                "max": 123648
+            },
+            "damage": {
+                "min": 73477,
+                "max": 73605
+            },
+            "hp": {
+                "min": 547780,
+                "max": 548420
+            },
+            "gold": {
+                "min": 251,
+                "max": 349
+            },
+            "xp": {
+                "min": 243410,
+                "max": 253192
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16210",
+                "itemName": "Jar of Brains"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "5147",
+                "realmName": "Ishnaron Coast (Lair)"
+            },
+            {
+                "realmId": "5155",
+                "realmName": "Yilnaroth Forest (Lair)"
+            },
+            {
+                "realmId": "5164",
+                "realmName": "Yilnaroth Forest (Shade)"
+            },
+            {
+                "realmId": "5174",
+                "realmName": "Sharath Forest (Ravage)"
+            },
+            {
+                "realmId": "5181",
+                "realmName": "Ultanis Forest (Herd)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7292,
+        "creatureImg": "https://cdn.fallensword.com/creatures/72922515f545dadccc6adb496e54f171c02b.png",
+        "creatureName": "Weregiant Rabbit (STF Titan)",
+        "description": "When the springtime festivities descend upon the realms, there is a 1 in 1,000,000 chance that an innocent little rabbit will suddenly transform into a Weregiant monstrosity. Of course, with just how many rabbits there are in the world, 1,000,000 isn't that much at all!",
+        "statistics": {
+            "class": "Magical",
+            "level": 3100,
+            "attack": {
+                "min": 124321,
+                "max": 124413
+            },
+            "defense": {
+                "min": 8101,
+                "max": 8189
+            },
+            "armor": {
+                "min": 2820,
+                "max": 2940
+            },
+            "damage": {
+                "min": 152569,
+                "max": 152645
+            },
+            "hp": {
+                "min": 403011,
+                "max": 403389
+            },
+            "gold": {
+                "min": 280,
+                "max": 320
+            },
+            "xp": {
+                "min": 131111,
+                "max": 137607
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Thievery:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16235",
+                "itemName": "Hairy Carrot"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "3921",
+                "realmName": "Monagoth Forest (Relic)"
+            },
+            {
+                "realmId": "3931",
+                "realmName": "Monagoth Mountain (Pasture)"
+            },
+            {
+                "realmId": "3938",
+                "realmName": "Monagoth Mountain (Spirit)"
+            },
+            {
+                "realmId": "3949",
+                "realmName": "Hallorath Forest (Horror)"
+            },
+            {
+                "realmId": "3944",
+                "realmName": "Monagoth Mountain (Wastes)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7515,
+        "creatureImg": "https://cdn.fallensword.com/creatures/75150c3f4f86c4eb0664e5bb1bafca33dd1c.png",
+        "creatureName": "The Lord of Groves (STF Titan)",
+        "description": "A titan that carries a sacred forest on its colossal back. It spends most of it’s time asleep beneath the earth, dreaming of the land and feeding on the magic that enriches the soil. The disused temple on its back hearkens back to days where monks once prayed at its altar, but has long since fallen into disrepair.",
+        "statistics": {
+            "class": "Dragon",
+            "level": 3850,
+            "attack": {
+                "min": 38458,
+                "max": 38628
+            },
+            "defense": {
+                "min": 298306,
+                "max": 298458
+            },
+            "armor": {
+                "min": 3575,
+                "max": 3715
+            },
+            "damage": {
+                "min": 23874,
+                "max": 23982
+            },
+            "hp": {
+                "min": 510013,
+                "max": 510587
+            },
+            "gold": {
+                "min": 239,
+                "max": 361
+            },
+            "xp": {
+                "min": 204482,
+                "max": 225978
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16463",
+                "itemName": "Heart of the Grove"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "4728",
+                "realmName": "Zylath City (Kennels)"
+            },
+            {
+                "realmId": "4716",
+                "realmName": "Gintara Castle (Depths)"
+            },
+            {
+                "realmId": "4700",
+                "realmName": "Vantaria Caves (Mist)"
+            },
+            {
+                "realmId": "4687",
+                "realmName": "Rellanath Desert (Opening)"
+            },
+            {
+                "realmId": "4667",
+                "realmName": "Seldiri Canyons (Slither)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7635,
+        "creatureImg": "https://cdn.fallensword.com/creatures/76352eeaf07c4794f34bebe73a0e6d9d39cb.png",
+        "creatureName": "Tanaka's Hydra (Titan)",
+        "description": "A truly titanic beast, the triple-headed dragon, Tanaka's Hydra, is a magically created beast, designed to protect the Realms from both Gorgeanaka and his Steam Forged doppelganger. You'd have thought they'd all learned. Once the beast was unleashed, after an initial fight against its targets, Tanaka's Hydra turned on its creator and it is now rampaging across the realms, same as its intended targets.",
+        "statistics": {
+            "class": "Dragon",
+            "level": 5525,
+            "attack": {
+                "min": 240733,
+                "max": 240893
+            },
+            "defense": {
+                "min": 6499,
+                "max": 6627
+            },
+            "armor": {
+                "min": 5276,
+                "max": 5388
+            },
+            "damage": {
+                "min": 280493,
+                "max": 280587
+            },
+            "hp": {
+                "min": 746264,
+                "max": 746836
+            },
+            "gold": {
+                "min": 228,
+                "max": 372
+            },
+            "xp": {
+                "min": 437429,
+                "max": 483939
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16536",
+                "itemName": "Tanaka's Magical Core"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "6555",
+                "realmName": "Lackter Caves (Glacier)"
+            },
+            {
+                "realmId": "6541",
+                "realmName": "Lackter Fortress (Ritual Rooms)"
+            },
+            {
+                "realmId": "6536",
+                "realmName": "Lackter Forest (Thicket)"
+            },
+            {
+                "realmId": "6524",
+                "realmName": "Kendarar Wilds (Herd)"
+            },
+            {
+                "realmId": "6517",
+                "realmName": "Feranoth Coast (Strike)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7760,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7760ad0b2f6c8aef14ebc7a1fe8b34536910.png",
+        "creatureName": "Raging Dough (STF Titan)",
+        "description": "This deleterious dough beast is the colossal result of misguided magic being cast to make the dough grow to produce extreme amounts of Springtime buns! Grow it did, becoming a vast sticky mass of eggs, milk flour and cinnamon. Alas, it grew an aggressive intellect, turning on the bakers, absorbing all in its path into it's delicious doughy body!",
+        "statistics": {
+            "class": "Magical",
+            "level": 5700,
+            "attack": {
+                "min": 279963,
+                "max": 280153
+            },
+            "defense": {
+                "min": 5260,
+                "max": 5360
+            },
+            "armor": {
+                "min": 5220,
+                "max": 5400
+            },
+            "damage": {
+                "min": 240270,
+                "max": 240372
+            },
+            "hp": {
+                "min": 743193,
+                "max": 743607
+            },
+            "gold": {
+                "min": 281,
+                "max": 319
+            },
+            "xp": {
+                "min": 448346,
+                "max": 465262
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Thievery:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Master Thief:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16729",
+                "itemName": "Hot Cross Polearm"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "6759",
+                "realmName": "Opternar City (Edge)"
+            },
+            {
+                "realmId": "6750",
+                "realmName": "Opternar City (Alleys)"
+            },
+            {
+                "realmId": "6740",
+                "realmName": "Kandara Woods (Garden)"
+            },
+            {
+                "realmId": "6729",
+                "realmName": "Kandara Woods (Orchard)"
+            },
+            {
+                "realmId": "6717",
+                "realmName": "Kolroth Plains (Frost)"
+            }
+        ],
+        "additionalNotes": null
+    },
+    {
+        "creatureId": 7970,
+        "creatureImg": "https://cdn.fallensword.com/creatures/7970d941268ad3637767351105e89ad9c002.png",
+        "creatureName": "Enshrouded Gorgeanaka (Titan)",
+        "description": "The great reptile, Gorgeanaka, is immune to most magical attacks due to its sorcerous nature. However, it would appear that the fell energies of the Shroud can, at least temporarily, invade the beast's mind, enraging it and empowering it further. Its rampage MUST be stopped!",
+        "statistics": {
+            "class": "Reptile",
+            "level": 5700,
+            "attack": {
+                "min": 321458,
+                "max": 321524
+            },
+            "defense": {
+                "min": 5337,
+                "max": 5463
+            },
+            "armor": {
+                "min": 5307,
+                "max": 5493
+            },
+            "damage": {
+                "min": 207628,
+                "max": 207788
+            },
+            "hp": {
+                "min": 755790,
+                "max": 756210
+            },
+            "gold": {
+                "min": 272,
+                "max": 328
+            },
+            "xp": {
+                "min": 465883,
+                "max": 478961
+            }
+        },
+        "enhancements": [
+            "Piercing Strike:100% - 100%",
+            "Reinforced Armor:100% - 100%",
+            "Critical Hit:100% - 100%",
+            "Breaker:100% - 100%",
+            "Nullify:100% - 100%",
+            "Protection:100% - 100%",
+            "Dodge:100% - 100%",
+            "Disarm:100% - 100%",
+            "First Strike:100% - 100%",
+            "Hypnotize:100% - 100%",
+            "Soulless:100% - 100%"
+        ],
+        "droppedItems": [
+            {
+                "itemId": "16864",
+                "itemName": "Enshrouded Gorgeanaka Core"
+            }
+        ],
+        "spawningInfo": [
+            {
+                "realmId": "6717",
+                "realmName": "Kolroth Plains (Frost)"
+            },
+            {
+                "realmId": "6730",
+                "realmName": "Kandara Woods (Moon)"
+            },
+            {
+                "realmId": "6739",
+                "realmName": "Kandara Woods (Silk)"
+            },
+            {
+                "realmId": "6749",
+                "realmName": "Opternar City (Mystic Cloister)"
+            },
+            {
+                "realmId": "6758",
+                "realmName": "Opternar City (Mercenary Quarter)"
+            }
+        ],
+        "additionalNotes": null
+    }
+]
